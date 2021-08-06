@@ -137,6 +137,9 @@ We also provid the training curve from our enviroments, where we 4 NVIDIA-V100 1
 
 Note that the final average loss is around 3.5 for LALM_share.
 
+* you can download our pre-trained model via: [base](https://office.sogou.com/ndisk/s/5656qJXi) and [large](https://office.sogou.com/ndisk/s/566yrH8d) .
+
+
 ## Fine-tuning
 
 ### 1.Preprocess the training question generation data
