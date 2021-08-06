@@ -202,7 +202,19 @@ Since we do not hold the licence to distribute the data, so we refer them below 
 todo
 
 
+### Reference
+If you wish to use our data in your research, please cite:
 
+```
+@article{wangmulti,
+  title={Multi-Lingual Question Generation with Language Agnostic Language Model},
+    booktitle = "Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)",
+    month = Aug,
+    year = "2021",
+    address = "Virtual",
+  author={Wang, Bingning and Yao, Ting and Chen, Weipeng and Xu, Jingfang and Wang, Xiaochuan}
+}
+```
 
 
 
