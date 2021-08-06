@@ -1,0 +1,1937 @@
+model size 152013056
+model size 152013056
+model size 152013056
+model size 152013056
+test data size is 0
+test data size is 0
+test data size is 0
+test data size is 0
+2021-06-17-18:20:46 mask loss is 3.9239 ms per sentence is  0.0000,lr=5.220000e-06 sent processed 24576
+2021-06-17-18:22:38 mask loss is 3.8527 ms per sentence is  4.5445,lr=1.034000e-05 sent processed 49152
+2021-06-17-18:24:30 mask loss is 3.8036 ms per sentence is  4.5820,lr=1.546000e-05 sent processed 73728
+2021-06-17-18:26:22 mask loss is 3.6563 ms per sentence is  4.5394,lr=2.058000e-05 sent processed 98304
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-18:28:14 mask loss is 3.7181 ms per sentence is  4.5435,lr=2.570000e-05 sent processed 122880
+2021-06-17-18:30:04 mask loss is 3.7431 ms per sentence is  4.5122,lr=3.082000e-05 sent processed 147456
+2021-06-17-18:31:56 mask loss is 3.5798 ms per sentence is  4.5460,lr=3.594000e-05 sent processed 172032
+2021-06-17-18:33:47 mask loss is 3.7855 ms per sentence is  4.5138,lr=4.106000e-05 sent processed 196608
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-18:35:39 mask loss is 3.9752 ms per sentence is  4.5718,lr=4.618000e-05 sent processed 221184
+2021-06-17-18:37:30 mask loss is 4.0640 ms per sentence is  4.5061,lr=5.130000e-05 sent processed 245760
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-18:39:21 mask loss is 4.0110 ms per sentence is  4.5250,lr=5.642000e-05 sent processed 270336
+2021-06-17-18:41:12 mask loss is 3.7243 ms per sentence is  4.5166,lr=6.154000e-05 sent processed 294912
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-18:43:04 mask loss is 3.5464 ms per sentence is  4.5483,lr=6.666000e-05 sent processed 319488
+2021-06-17-18:44:56 mask loss is 3.7858 ms per sentence is  4.5525,lr=7.178000e-05 sent processed 344064
+2021-06-17-18:46:48 mask loss is 3.7599 ms per sentence is  4.5437,lr=7.690000e-05 sent processed 368640
+2021-06-17-18:48:39 mask loss is 3.6489 ms per sentence is  4.5134,lr=8.202000e-05 sent processed 393216
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-18:50:30 mask loss is 3.4929 ms per sentence is  4.5330,lr=8.714000e-05 sent processed 417792
+2021-06-17-18:52:21 mask loss is 3.6901 ms per sentence is  4.5301,lr=9.226000e-05 sent processed 442368
+2021-06-17-18:54:13 mask loss is 3.8364 ms per sentence is  4.5304,lr=9.738000e-05 sent processed 466944
+2021-06-17-18:56:04 mask loss is 3.9777 ms per sentence is  4.5124,lr=1.000803e-04 sent processed 491520
+-------------------------epoch 0 ---------------------
+2021-06-17-18:57:55 mask loss is 3.8948 ms per sentence is  0.0000,lr=9.999500e-05 sent processed 516096
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-18:59:46 mask loss is 3.9201 ms per sentence is  4.5127,lr=9.990967e-05 sent processed 540672
+2021-06-17-19:01:38 mask loss is 3.8082 ms per sentence is  4.5399,lr=9.982433e-05 sent processed 565248
+2021-06-17-19:03:29 mask loss is 3.6965 ms per sentence is  4.5177,lr=9.973900e-05 sent processed 589824
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-19:05:20 mask loss is 3.5351 ms per sentence is  4.5534,lr=9.965367e-05 sent processed 614400
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-19:07:12 mask loss is 3.5294 ms per sentence is  4.5386,lr=9.956833e-05 sent processed 638976
+2021-06-17-19:09:04 mask loss is 3.6677 ms per sentence is  4.5505,lr=9.948300e-05 sent processed 663552
+2021-06-17-19:10:55 mask loss is 3.5884 ms per sentence is  4.5356,lr=9.939767e-05 sent processed 688128
+2021-06-17-19:12:47 mask loss is 3.5407 ms per sentence is  4.5651,lr=9.931233e-05 sent processed 712704
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-19:14:39 mask loss is 3.5473 ms per sentence is  4.5218,lr=9.922700e-05 sent processed 737280
+2021-06-17-19:16:30 mask loss is 4.0807 ms per sentence is  4.5337,lr=9.914167e-05 sent processed 761856
+2021-06-17-19:18:22 mask loss is 3.9153 ms per sentence is  4.5369,lr=9.905633e-05 sent processed 786432
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-19:20:14 mask loss is 3.7218 ms per sentence is  4.5631,lr=9.897100e-05 sent processed 811008
+2021-06-17-19:22:06 mask loss is 3.5300 ms per sentence is  4.5578,lr=9.888567e-05 sent processed 835584
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-19:23:58 mask loss is 3.5559 ms per sentence is  4.5555,lr=9.880033e-05 sent processed 860160
+2021-06-17-19:25:49 mask loss is 3.5733 ms per sentence is  4.5288,lr=9.871500e-05 sent processed 884736
+2021-06-17-19:27:41 mask loss is 3.6733 ms per sentence is  4.5638,lr=9.862967e-05 sent processed 909312
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-19:29:33 mask loss is 3.3893 ms per sentence is  4.5361,lr=9.854433e-05 sent processed 933888
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-19:31:25 mask loss is 3.3064 ms per sentence is  4.5600,lr=9.845900e-05 sent processed 958464
+2021-06-17-19:33:16 mask loss is 3.6379 ms per sentence is  4.5292,lr=9.837367e-05 sent processed 983040
+-------------------------epoch 1 ---------------------
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-17-19:35:08 mask loss is 3.7442 ms per sentence is  0.0000,lr=9.828833e-05 sent processed 1.00762e+06
+2021-06-17-19:36:59 mask loss is 3.8378 ms per sentence is  4.5208,lr=9.820300e-05 sent processed 1.03219e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-19:38:51 mask loss is 3.8851 ms per sentence is  4.5424,lr=9.811767e-05 sent processed 1.05677e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-19:40:42 mask loss is 3.8197 ms per sentence is  4.5165,lr=9.803233e-05 sent processed 1.08134e+06
+2021-06-17-19:42:33 mask loss is 3.6412 ms per sentence is  4.5365,lr=9.794700e-05 sent processed 1.10592e+06
+2021-06-17-19:44:24 mask loss is 3.5069 ms per sentence is  4.5057,lr=9.786167e-05 sent processed 1.1305e+06
+2021-06-17-19:46:15 mask loss is 3.5238 ms per sentence is  4.5312,lr=9.777633e-05 sent processed 1.15507e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-19:48:06 mask loss is 3.4843 ms per sentence is  4.5249,lr=9.769100e-05 sent processed 1.17965e+06
+2021-06-17-19:49:58 mask loss is 3.5005 ms per sentence is  4.5427,lr=9.760567e-05 sent processed 1.20422e+06
+2021-06-17-19:51:49 mask loss is 3.4148 ms per sentence is  4.5237,lr=9.752033e-05 sent processed 1.2288e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-19:53:41 mask loss is 3.4391 ms per sentence is  4.5331,lr=9.743500e-05 sent processed 1.25338e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-19:55:32 mask loss is 3.6719 ms per sentence is  4.5234,lr=9.734967e-05 sent processed 1.27795e+06
+2021-06-17-19:57:23 mask loss is 3.9789 ms per sentence is  4.5419,lr=9.726433e-05 sent processed 1.30253e+06
+2021-06-17-19:59:14 mask loss is 3.9333 ms per sentence is  4.5093,lr=9.717900e-05 sent processed 1.3271e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-20:01:06 mask loss is 3.8768 ms per sentence is  4.5486,lr=9.709367e-05 sent processed 1.35168e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-20:02:58 mask loss is 3.7669 ms per sentence is  4.5472,lr=9.700833e-05 sent processed 1.37626e+06
+2021-06-17-20:04:50 mask loss is 3.5593 ms per sentence is  4.5564,lr=9.692300e-05 sent processed 1.40083e+06
+2021-06-17-20:06:41 mask loss is 3.6008 ms per sentence is  4.5341,lr=9.683767e-05 sent processed 1.42541e+06
+2021-06-17-20:08:33 mask loss is 3.4431 ms per sentence is  4.5518,lr=9.675233e-05 sent processed 1.44998e+06
+2021-06-17-20:10:25 mask loss is 3.5663 ms per sentence is  4.5397,lr=9.666700e-05 sent processed 1.47456e+06
+-------------------------epoch 2 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-17-20:12:17 mask loss is 3.5410 ms per sentence is  0.0000,lr=9.658167e-05 sent processed 1.49914e+06
+2021-06-17-20:14:08 mask loss is 3.6097 ms per sentence is  4.5411,lr=9.649633e-05 sent processed 1.52371e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-20:16:00 mask loss is 3.6334 ms per sentence is  4.5559,lr=9.641100e-05 sent processed 1.54829e+06
+2021-06-17-20:17:52 mask loss is 3.9058 ms per sentence is  4.5366,lr=9.632567e-05 sent processed 1.57286e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-20:19:44 mask loss is 3.9397 ms per sentence is  4.5485,lr=9.624033e-05 sent processed 1.59744e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-20:21:35 mask loss is 3.9912 ms per sentence is  4.5175,lr=9.615500e-05 sent processed 1.62202e+06
+2021-06-17-20:23:27 mask loss is 3.8406 ms per sentence is  4.5642,lr=9.606967e-05 sent processed 1.64659e+06
+2021-06-17-20:25:19 mask loss is 3.6300 ms per sentence is  4.5423,lr=9.598433e-05 sent processed 1.67117e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-20:27:11 mask loss is 3.5964 ms per sentence is  4.5818,lr=9.589900e-05 sent processed 1.69574e+06
+2021-06-17-20:29:03 mask loss is 3.6219 ms per sentence is  4.5385,lr=9.581367e-05 sent processed 1.72032e+06
+2021-06-17-20:30:55 mask loss is 3.7412 ms per sentence is  4.5692,lr=9.572833e-05 sent processed 1.7449e+06
+2021-06-17-20:32:46 mask loss is 3.4730 ms per sentence is  4.5339,lr=9.564300e-05 sent processed 1.76947e+06
+2021-06-17-20:34:39 mask loss is 3.5609 ms per sentence is  4.5777,lr=9.555767e-05 sent processed 1.79405e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-20:36:30 mask loss is 3.6095 ms per sentence is  4.5288,lr=9.547233e-05 sent processed 1.81862e+06
+2021-06-17-20:38:22 mask loss is 3.9614 ms per sentence is  4.5528,lr=9.538700e-05 sent processed 1.8432e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-20:40:13 mask loss is 3.8483 ms per sentence is  4.5081,lr=9.530167e-05 sent processed 1.86778e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-20:42:04 mask loss is 3.9314 ms per sentence is  4.5171,lr=9.521633e-05 sent processed 1.89235e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-20:43:55 mask loss is 3.8135 ms per sentence is  4.5194,lr=9.513100e-05 sent processed 1.91693e+06
+2021-06-17-20:45:46 mask loss is 3.6445 ms per sentence is  4.5348,lr=9.504567e-05 sent processed 1.9415e+06
+2021-06-17-20:47:38 mask loss is 3.5993 ms per sentence is  4.5390,lr=9.496033e-05 sent processed 1.96608e+06
+-------------------------epoch 3 ---------------------
+2021-06-17-20:49:30 mask loss is 3.6602 ms per sentence is  0.0000,lr=9.487500e-05 sent processed 1.99066e+06
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-20:51:22 mask loss is 3.5481 ms per sentence is  4.5298,lr=9.478967e-05 sent processed 2.01523e+06
+2021-06-17-20:53:13 mask loss is 3.5699 ms per sentence is  4.5388,lr=9.470433e-05 sent processed 2.03981e+06
+2021-06-17-20:55:04 mask loss is 3.6309 ms per sentence is  4.5177,lr=9.461900e-05 sent processed 2.06438e+06
+2021-06-17-20:56:56 mask loss is 3.5530 ms per sentence is  4.5315,lr=9.453367e-05 sent processed 2.08896e+06
+2021-06-17-20:58:47 mask loss is 3.7400 ms per sentence is  4.5224,lr=9.444833e-05 sent processed 2.11354e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:00:39 mask loss is 3.8506 ms per sentence is  4.5541,lr=9.436300e-05 sent processed 2.13811e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-21:02:30 mask loss is 3.9631 ms per sentence is  4.5316,lr=9.427767e-05 sent processed 2.16269e+06
+2021-06-17-21:04:22 mask loss is 3.7346 ms per sentence is  4.5535,lr=9.419233e-05 sent processed 2.18726e+06
+2021-06-17-21:06:14 mask loss is 3.6010 ms per sentence is  4.5460,lr=9.410700e-05 sent processed 2.21184e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:08:06 mask loss is 3.5673 ms per sentence is  4.5668,lr=9.402167e-05 sent processed 2.23642e+06
+2021-06-17-21:09:58 mask loss is 3.7333 ms per sentence is  4.5671,lr=9.393633e-05 sent processed 2.26099e+06
+2021-06-17-21:11:51 mask loss is 3.4787 ms per sentence is  4.5756,lr=9.385100e-05 sent processed 2.28557e+06
+2021-06-17-21:13:42 mask loss is 3.4387 ms per sentence is  4.5534,lr=9.376567e-05 sent processed 2.31014e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:15:34 mask loss is 3.2948 ms per sentence is  4.5476,lr=9.368033e-05 sent processed 2.33472e+06
+2021-06-17-21:17:26 mask loss is 3.5610 ms per sentence is  4.5292,lr=9.359500e-05 sent processed 2.3593e+06
+2021-06-17-21:19:17 mask loss is 3.8204 ms per sentence is  4.5427,lr=9.350967e-05 sent processed 2.38387e+06
+2021-06-17-21:21:08 mask loss is 3.9565 ms per sentence is  4.5288,lr=9.342433e-05 sent processed 2.40845e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-21:23:00 mask loss is 3.7202 ms per sentence is  4.5543,lr=9.333900e-05 sent processed 2.43302e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:24:52 mask loss is 3.7278 ms per sentence is  4.5337,lr=9.325367e-05 sent processed 2.4576e+06
+-------------------------epoch 4 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-21:26:44 mask loss is 3.6974 ms per sentence is  0.0000,lr=9.316833e-05 sent processed 2.48218e+06
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-17-21:28:35 mask loss is 3.6767 ms per sentence is  4.5193,lr=9.308300e-05 sent processed 2.50675e+06
+2021-06-17-21:30:26 mask loss is 3.7394 ms per sentence is  4.5386,lr=9.299767e-05 sent processed 2.53133e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:32:18 mask loss is 3.6146 ms per sentence is  4.5267,lr=9.291233e-05 sent processed 2.5559e+06
+2021-06-17-21:34:09 mask loss is 3.6256 ms per sentence is  4.5410,lr=9.282700e-05 sent processed 2.58048e+06
+2021-06-17-21:36:00 mask loss is 3.6114 ms per sentence is  4.5110,lr=9.274167e-05 sent processed 2.60506e+06
+2021-06-17-21:37:52 mask loss is 3.6227 ms per sentence is  4.5482,lr=9.265633e-05 sent processed 2.62963e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:39:43 mask loss is 3.7593 ms per sentence is  4.5283,lr=9.257100e-05 sent processed 2.65421e+06
+2021-06-17-21:41:34 mask loss is 4.0071 ms per sentence is  4.5239,lr=9.248567e-05 sent processed 2.67878e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-21:43:26 mask loss is 3.9518 ms per sentence is  4.5329,lr=9.240033e-05 sent processed 2.70336e+06
+2021-06-17-21:45:18 mask loss is 3.8569 ms per sentence is  4.5508,lr=9.231500e-05 sent processed 2.72794e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:47:09 mask loss is 3.6665 ms per sentence is  4.5517,lr=9.222967e-05 sent processed 2.75251e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-21:49:01 mask loss is 3.6329 ms per sentence is  4.5376,lr=9.214433e-05 sent processed 2.77709e+06
+2021-06-17-21:50:53 mask loss is 3.6331 ms per sentence is  4.5469,lr=9.205900e-05 sent processed 2.80166e+06
+2021-06-17-21:52:45 mask loss is 3.7057 ms per sentence is  4.5591,lr=9.197367e-05 sent processed 2.82624e+06
+2021-06-17-21:54:36 mask loss is 3.6355 ms per sentence is  4.5355,lr=9.188833e-05 sent processed 2.85082e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-21:56:28 mask loss is 3.5032 ms per sentence is  4.5459,lr=9.180300e-05 sent processed 2.87539e+06
+2021-06-17-21:58:19 mask loss is 3.6687 ms per sentence is  4.5320,lr=9.171767e-05 sent processed 2.89997e+06
+2021-06-17-22:00:11 mask loss is 3.8747 ms per sentence is  4.5499,lr=9.163233e-05 sent processed 2.92454e+06
+2021-06-17-22:02:02 mask loss is 3.9226 ms per sentence is  4.5330,lr=9.154700e-05 sent processed 2.94912e+06
+-------------------------epoch 5 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-22:03:54 mask loss is 3.8593 ms per sentence is  0.0000,lr=9.146167e-05 sent processed 2.9737e+06
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-17-22:05:46 mask loss is 3.8498 ms per sentence is  4.5382,lr=9.137633e-05 sent processed 2.99827e+06
+2021-06-17-22:07:39 mask loss is 3.6617 ms per sentence is  4.5860,lr=9.129100e-05 sent processed 3.02285e+06
+2021-06-17-22:09:30 mask loss is 3.7384 ms per sentence is  4.5468,lr=9.120567e-05 sent processed 3.04742e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-22:11:23 mask loss is 3.6227 ms per sentence is  4.5751,lr=9.112033e-05 sent processed 3.072e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-22:13:14 mask loss is 3.6614 ms per sentence is  4.5377,lr=9.103500e-05 sent processed 3.09658e+06
+2021-06-17-22:15:06 mask loss is 3.6308 ms per sentence is  4.5565,lr=9.094967e-05 sent processed 3.12115e+06
+2021-06-17-22:16:58 mask loss is 3.6860 ms per sentence is  4.5249,lr=9.086433e-05 sent processed 3.14573e+06
+2021-06-17-22:18:50 mask loss is 3.6375 ms per sentence is  4.5564,lr=9.077900e-05 sent processed 3.1703e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-22:20:41 mask loss is 3.8207 ms per sentence is  4.5262,lr=9.069367e-05 sent processed 3.19488e+06
+2021-06-17-22:22:32 mask loss is 3.9504 ms per sentence is  4.5347,lr=9.060833e-05 sent processed 3.21946e+06
+2021-06-17-22:24:23 mask loss is 3.9682 ms per sentence is  4.5012,lr=9.052300e-05 sent processed 3.24403e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-22:26:14 mask loss is 3.8452 ms per sentence is  4.5316,lr=9.043767e-05 sent processed 3.26861e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-22:28:05 mask loss is 3.6572 ms per sentence is  4.5086,lr=9.035233e-05 sent processed 3.29318e+06
+2021-06-17-22:29:57 mask loss is 3.5936 ms per sentence is  4.5504,lr=9.026700e-05 sent processed 3.31776e+06
+2021-06-17-22:31:49 mask loss is 3.6707 ms per sentence is  4.5477,lr=9.018167e-05 sent processed 3.34234e+06
+2021-06-17-22:33:40 mask loss is 3.7159 ms per sentence is  4.5435,lr=9.009633e-05 sent processed 3.36691e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-22:35:31 mask loss is 3.5493 ms per sentence is  4.5221,lr=9.001100e-05 sent processed 3.39149e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-22:37:23 mask loss is 3.4552 ms per sentence is  4.5355,lr=8.992567e-05 sent processed 3.41606e+06
+2021-06-17-22:39:14 mask loss is 3.6341 ms per sentence is  4.5251,lr=8.984033e-05 sent processed 3.44064e+06
+-------------------------epoch 6 ---------------------
+2021-06-17-22:41:06 mask loss is 3.7720 ms per sentence is  0.0000,lr=8.975500e-05 sent processed 3.46522e+06
+2021-06-17-22:42:57 mask loss is 3.9288 ms per sentence is  4.5132,lr=8.966967e-05 sent processed 3.48979e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-22:44:48 mask loss is 3.8072 ms per sentence is  4.5169,lr=8.958433e-05 sent processed 3.51437e+06
+2021-06-17-22:46:39 mask loss is 3.8253 ms per sentence is  4.5127,lr=8.949900e-05 sent processed 3.53894e+06
+2021-06-17-22:48:31 mask loss is 3.6517 ms per sentence is  4.5492,lr=8.941367e-05 sent processed 3.56352e+06
+2021-06-17-22:50:22 mask loss is 3.5424 ms per sentence is  4.5256,lr=8.932833e-05 sent processed 3.5881e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-22:52:14 mask loss is 3.5035 ms per sentence is  4.5559,lr=8.924300e-05 sent processed 3.61267e+06
+2021-06-17-22:54:05 mask loss is 3.5222 ms per sentence is  4.5309,lr=8.915767e-05 sent processed 3.63725e+06
+2021-06-17-22:55:57 mask loss is 3.5722 ms per sentence is  4.5398,lr=8.907233e-05 sent processed 3.66182e+06
+2021-06-17-22:57:48 mask loss is 3.4740 ms per sentence is  4.5270,lr=8.898700e-05 sent processed 3.6864e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-22:59:40 mask loss is 3.5110 ms per sentence is  4.5436,lr=8.890167e-05 sent processed 3.71098e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-23:01:31 mask loss is 3.6515 ms per sentence is  4.5235,lr=8.881633e-05 sent processed 3.73555e+06
+2021-06-17-23:03:23 mask loss is 3.9244 ms per sentence is  4.5590,lr=8.873100e-05 sent processed 3.76013e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-23:05:15 mask loss is 3.7703 ms per sentence is  4.5508,lr=8.864567e-05 sent processed 3.7847e+06
+2021-06-17-23:07:07 mask loss is 3.6533 ms per sentence is  4.5635,lr=8.856033e-05 sent processed 3.80928e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-17-23:08:58 mask loss is 3.4567 ms per sentence is  4.5288,lr=8.847500e-05 sent processed 3.83386e+06
+2021-06-17-23:10:50 mask loss is 3.3838 ms per sentence is  4.5659,lr=8.838967e-05 sent processed 3.85843e+06
+2021-06-17-23:12:42 mask loss is 3.6340 ms per sentence is  4.5445,lr=8.830433e-05 sent processed 3.88301e+06
+2021-06-17-23:14:34 mask loss is 3.4921 ms per sentence is  4.5616,lr=8.821900e-05 sent processed 3.90758e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-23:16:26 mask loss is 3.2385 ms per sentence is  4.5334,lr=8.813367e-05 sent processed 3.93216e+06
+-------------------------epoch 7 ---------------------
+2021-06-17-23:18:17 mask loss is 3.4078 ms per sentence is  0.0000,lr=8.804833e-05 sent processed 3.95674e+06
+2021-06-17-23:20:08 mask loss is 3.5978 ms per sentence is  4.5132,lr=8.796300e-05 sent processed 3.98131e+06
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-23:21:59 mask loss is 3.8048 ms per sentence is  4.5295,lr=8.787767e-05 sent processed 4.00589e+06
+2021-06-17-23:23:50 mask loss is 3.9233 ms per sentence is  4.5112,lr=8.779233e-05 sent processed 4.03046e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-23:25:42 mask loss is 3.8503 ms per sentence is  4.5558,lr=8.770700e-05 sent processed 4.05504e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-23:27:33 mask loss is 3.9555 ms per sentence is  4.5227,lr=8.762167e-05 sent processed 4.07962e+06
+2021-06-17-23:29:25 mask loss is 3.7651 ms per sentence is  4.5546,lr=8.753633e-05 sent processed 4.10419e+06
+2021-06-17-23:31:17 mask loss is 3.6873 ms per sentence is  4.5300,lr=8.745100e-05 sent processed 4.12877e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-23:33:08 mask loss is 3.5448 ms per sentence is  4.5383,lr=8.736567e-05 sent processed 4.15334e+06
+2021-06-17-23:35:00 mask loss is 3.5997 ms per sentence is  4.5354,lr=8.728033e-05 sent processed 4.17792e+06
+2021-06-17-23:36:52 mask loss is 3.6195 ms per sentence is  4.5531,lr=8.719500e-05 sent processed 4.2025e+06
+2021-06-17-23:38:43 mask loss is 3.5579 ms per sentence is  4.5263,lr=8.710967e-05 sent processed 4.22707e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-23:40:35 mask loss is 3.5225 ms per sentence is  4.5811,lr=8.702433e-05 sent processed 4.25165e+06
+2021-06-17-23:42:27 mask loss is 3.7147 ms per sentence is  4.5243,lr=8.693900e-05 sent processed 4.27622e+06
+2021-06-17-23:44:19 mask loss is 3.9822 ms per sentence is  4.5640,lr=8.685367e-05 sent processed 4.3008e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-17-23:46:10 mask loss is 3.9937 ms per sentence is  4.5316,lr=8.676833e-05 sent processed 4.32538e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-17-23:48:02 mask loss is 3.8402 ms per sentence is  4.5518,lr=8.668300e-05 sent processed 4.34995e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-23:49:53 mask loss is 3.6215 ms per sentence is  4.5321,lr=8.659767e-05 sent processed 4.37453e+06
+2021-06-17-23:51:46 mask loss is 3.6306 ms per sentence is  4.5728,lr=8.651233e-05 sent processed 4.3991e+06
+2021-06-17-23:53:38 mask loss is 3.6666 ms per sentence is  4.5626,lr=8.642700e-05 sent processed 4.42368e+06
+-------------------------epoch 8 ---------------------
+2021-06-17-23:55:31 mask loss is 3.6669 ms per sentence is  0.0000,lr=8.634167e-05 sent processed 4.44826e+06
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-17-23:57:22 mask loss is 3.4650 ms per sentence is  4.5393,lr=8.625633e-05 sent processed 4.47283e+06
+2021-06-17-23:59:14 mask loss is 3.4842 ms per sentence is  4.5549,lr=8.617100e-05 sent processed 4.49741e+06
+2021-06-18-00:01:06 mask loss is 3.6015 ms per sentence is  4.5420,lr=8.608567e-05 sent processed 4.52198e+06
+2021-06-18-00:02:58 mask loss is 3.7892 ms per sentence is  4.5701,lr=8.600033e-05 sent processed 4.54656e+06
+2021-06-18-00:04:49 mask loss is 3.7896 ms per sentence is  4.5168,lr=8.591500e-05 sent processed 4.57114e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-00:06:40 mask loss is 3.9322 ms per sentence is  4.5347,lr=8.582967e-05 sent processed 4.59571e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-00:08:32 mask loss is 3.8700 ms per sentence is  4.5210,lr=8.574433e-05 sent processed 4.62029e+06
+2021-06-18-00:10:23 mask loss is 3.7635 ms per sentence is  4.5500,lr=8.565900e-05 sent processed 4.64486e+06
+2021-06-18-00:12:15 mask loss is 3.5784 ms per sentence is  4.5345,lr=8.557367e-05 sent processed 4.66944e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-00:14:06 mask loss is 3.6292 ms per sentence is  4.5330,lr=8.548833e-05 sent processed 4.69402e+06
+2021-06-18-00:15:57 mask loss is 3.5694 ms per sentence is  4.5218,lr=8.540300e-05 sent processed 4.71859e+06
+2021-06-18-00:17:50 mask loss is 3.6177 ms per sentence is  4.5720,lr=8.531767e-05 sent processed 4.74317e+06
+2021-06-18-00:19:42 mask loss is 3.5217 ms per sentence is  4.5521,lr=8.523233e-05 sent processed 4.76774e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-00:21:33 mask loss is 3.4006 ms per sentence is  4.5433,lr=8.514700e-05 sent processed 4.79232e+06
+2021-06-18-00:23:24 mask loss is 3.6678 ms per sentence is  4.5080,lr=8.506167e-05 sent processed 4.8169e+06
+2021-06-18-00:25:16 mask loss is 3.9076 ms per sentence is  4.5410,lr=8.497633e-05 sent processed 4.84147e+06
+2021-06-18-00:27:06 mask loss is 3.9026 ms per sentence is  4.5045,lr=8.489100e-05 sent processed 4.86605e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-00:28:58 mask loss is 3.7768 ms per sentence is  4.5394,lr=8.480567e-05 sent processed 4.89062e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-00:30:50 mask loss is 3.7191 ms per sentence is  4.5433,lr=8.472033e-05 sent processed 4.9152e+06
+-------------------------epoch 9 ---------------------
+2021-06-18-00:32:42 mask loss is 3.6189 ms per sentence is  0.0000,lr=8.463500e-05 sent processed 4.93978e+06
+2021-06-18-00:34:33 mask loss is 3.6159 ms per sentence is  4.5157,lr=8.454967e-05 sent processed 4.96435e+06
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-00:36:24 mask loss is 3.5460 ms per sentence is  4.5369,lr=8.446433e-05 sent processed 4.98893e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-00:38:16 mask loss is 3.6158 ms per sentence is  4.5310,lr=8.437900e-05 sent processed 5.0135e+06
+2021-06-18-00:40:08 mask loss is 3.5778 ms per sentence is  4.5605,lr=8.429367e-05 sent processed 5.03808e+06
+2021-06-18-00:41:59 mask loss is 3.5453 ms per sentence is  4.5277,lr=8.420833e-05 sent processed 5.06266e+06
+2021-06-18-00:43:51 mask loss is 3.5180 ms per sentence is  4.5487,lr=8.412300e-05 sent processed 5.08723e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-00:45:43 mask loss is 3.7391 ms per sentence is  4.5500,lr=8.403767e-05 sent processed 5.11181e+06
+2021-06-18-00:47:34 mask loss is 3.8887 ms per sentence is  4.5492,lr=8.395233e-05 sent processed 5.13638e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-00:49:27 mask loss is 3.8494 ms per sentence is  4.5704,lr=8.386700e-05 sent processed 5.16096e+06
+2021-06-18-00:51:19 mask loss is 3.6184 ms per sentence is  4.5633,lr=8.378167e-05 sent processed 5.18554e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-00:53:11 mask loss is 3.5300 ms per sentence is  4.5456,lr=8.369633e-05 sent processed 5.21011e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-00:55:03 mask loss is 3.6567 ms per sentence is  4.5663,lr=8.361100e-05 sent processed 5.23469e+06
+2021-06-18-00:56:55 mask loss is 3.5320 ms per sentence is  4.5604,lr=8.352567e-05 sent processed 5.25926e+06
+2021-06-18-00:58:47 mask loss is 3.4246 ms per sentence is  4.5604,lr=8.344033e-05 sent processed 5.28384e+06
+2021-06-18-01:00:38 mask loss is 3.3563 ms per sentence is  4.5237,lr=8.335500e-05 sent processed 5.30842e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-01:02:30 mask loss is 3.4638 ms per sentence is  4.5451,lr=8.326967e-05 sent processed 5.33299e+06
+2021-06-18-01:04:21 mask loss is 3.6673 ms per sentence is  4.5349,lr=8.318433e-05 sent processed 5.35757e+06
+2021-06-18-01:06:13 mask loss is 3.8530 ms per sentence is  4.5261,lr=8.309900e-05 sent processed 5.38214e+06
+2021-06-18-01:08:04 mask loss is 3.7178 ms per sentence is  4.5397,lr=8.301367e-05 sent processed 5.40672e+06
+-------------------------epoch 10 ---------------------
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-01:09:56 mask loss is 3.8090 ms per sentence is  0.0000,lr=8.292833e-05 sent processed 5.4313e+06
+2021-06-18-01:11:47 mask loss is 3.7128 ms per sentence is  4.5179,lr=8.284300e-05 sent processed 5.45587e+06
+2021-06-18-01:13:39 mask loss is 3.6755 ms per sentence is  4.5443,lr=8.275767e-05 sent processed 5.48045e+06
+2021-06-18-01:15:30 mask loss is 3.6440 ms per sentence is  4.5409,lr=8.267233e-05 sent processed 5.50502e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-01:17:22 mask loss is 3.5485 ms per sentence is  4.5505,lr=8.258700e-05 sent processed 5.5296e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-01:19:14 mask loss is 3.5968 ms per sentence is  4.5336,lr=8.250167e-05 sent processed 5.55418e+06
+2021-06-18-01:21:05 mask loss is 3.5392 ms per sentence is  4.5349,lr=8.241633e-05 sent processed 5.57875e+06
+2021-06-18-01:22:56 mask loss is 3.5418 ms per sentence is  4.5073,lr=8.233100e-05 sent processed 5.60333e+06
+2021-06-18-01:24:47 mask loss is 3.5939 ms per sentence is  4.5262,lr=8.224567e-05 sent processed 5.6279e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-01:26:38 mask loss is 3.9507 ms per sentence is  4.5092,lr=8.216033e-05 sent processed 5.65248e+06
+2021-06-18-01:28:29 mask loss is 3.8916 ms per sentence is  4.5282,lr=8.207500e-05 sent processed 5.67706e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-01:30:21 mask loss is 3.8474 ms per sentence is  4.5320,lr=8.198967e-05 sent processed 5.70163e+06
+2021-06-18-01:32:12 mask loss is 3.6717 ms per sentence is  4.5527,lr=8.190433e-05 sent processed 5.72621e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-01:34:04 mask loss is 3.6495 ms per sentence is  4.5264,lr=8.181900e-05 sent processed 5.75078e+06
+2021-06-18-01:35:56 mask loss is 3.5664 ms per sentence is  4.5567,lr=8.173367e-05 sent processed 5.77536e+06
+2021-06-18-01:37:48 mask loss is 3.5793 ms per sentence is  4.5539,lr=8.164833e-05 sent processed 5.79994e+06
+2021-06-18-01:39:40 mask loss is 3.5511 ms per sentence is  4.5538,lr=8.156300e-05 sent processed 5.82451e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-01:41:31 mask loss is 3.5071 ms per sentence is  4.5562,lr=8.147767e-05 sent processed 5.84909e+06
+2021-06-18-01:43:23 mask loss is 3.5582 ms per sentence is  4.5434,lr=8.139233e-05 sent processed 5.87366e+06
+2021-06-18-01:45:15 mask loss is 3.6262 ms per sentence is  4.5401,lr=8.130700e-05 sent processed 5.89824e+06
+-------------------------epoch 11 ---------------------
+2021-06-18-01:47:07 mask loss is 3.7721 ms per sentence is  0.0000,lr=8.122167e-05 sent processed 5.92282e+06
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-01:48:59 mask loss is 3.8734 ms per sentence is  4.5401,lr=8.113633e-05 sent processed 5.94739e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-01:50:51 mask loss is 3.9555 ms per sentence is  4.5785,lr=8.105100e-05 sent processed 5.97197e+06
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-01:52:43 mask loss is 3.7473 ms per sentence is  4.5444,lr=8.096567e-05 sent processed 5.99654e+06
+2021-06-18-01:54:35 mask loss is 3.5210 ms per sentence is  4.5591,lr=8.088033e-05 sent processed 6.02112e+06
+2021-06-18-01:56:27 mask loss is 3.5657 ms per sentence is  4.5385,lr=8.079500e-05 sent processed 6.0457e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-01:58:19 mask loss is 3.6669 ms per sentence is  4.5820,lr=8.070967e-05 sent processed 6.07027e+06
+2021-06-18-02:00:11 mask loss is 3.6000 ms per sentence is  4.5462,lr=8.062433e-05 sent processed 6.09485e+06
+2021-06-18-02:02:03 mask loss is 3.5705 ms per sentence is  4.5603,lr=8.053900e-05 sent processed 6.11942e+06
+2021-06-18-02:03:55 mask loss is 3.5405 ms per sentence is  4.5450,lr=8.045367e-05 sent processed 6.144e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-02:05:47 mask loss is 3.6546 ms per sentence is  4.5598,lr=8.036833e-05 sent processed 6.16858e+06
+2021-06-18-02:07:38 mask loss is 3.7764 ms per sentence is  4.5351,lr=8.028300e-05 sent processed 6.19315e+06
+2021-06-18-02:09:30 mask loss is 3.9003 ms per sentence is  4.5335,lr=8.019767e-05 sent processed 6.21773e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-02:11:21 mask loss is 3.8538 ms per sentence is  4.5266,lr=8.011233e-05 sent processed 6.2423e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-02:13:12 mask loss is 3.7345 ms per sentence is  4.5356,lr=8.002700e-05 sent processed 6.26688e+06
+2021-06-18-02:15:04 mask loss is 3.7180 ms per sentence is  4.5433,lr=7.994167e-05 sent processed 6.29146e+06
+2021-06-18-02:16:57 mask loss is 3.4227 ms per sentence is  4.5813,lr=7.985633e-05 sent processed 6.31603e+06
+2021-06-18-02:18:49 mask loss is 3.5290 ms per sentence is  4.5603,lr=7.977100e-05 sent processed 6.34061e+06
+2021-06-18-02:20:41 mask loss is 3.5190 ms per sentence is  4.5566,lr=7.968567e-05 sent processed 6.36518e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-02:22:32 mask loss is 3.5067 ms per sentence is  4.5319,lr=7.960033e-05 sent processed 6.38976e+06
+-------------------------epoch 12 ---------------------
+2021-06-18-02:24:24 mask loss is 3.3181 ms per sentence is  0.0000,lr=7.951500e-05 sent processed 6.41434e+06
+2021-06-18-02:26:15 mask loss is 3.5046 ms per sentence is  4.5138,lr=7.942967e-05 sent processed 6.43891e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-02:28:07 mask loss is 3.6385 ms per sentence is  4.5450,lr=7.934433e-05 sent processed 6.46349e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-02:29:58 mask loss is 3.7624 ms per sentence is  4.5208,lr=7.925900e-05 sent processed 6.48806e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-02:31:49 mask loss is 3.8573 ms per sentence is  4.5393,lr=7.917367e-05 sent processed 6.51264e+06
+2021-06-18-02:33:40 mask loss is 3.6889 ms per sentence is  4.5177,lr=7.908833e-05 sent processed 6.53722e+06
+2021-06-18-02:35:32 mask loss is 3.4995 ms per sentence is  4.5605,lr=7.900300e-05 sent processed 6.56179e+06
+2021-06-18-02:37:24 mask loss is 3.4679 ms per sentence is  4.5299,lr=7.891767e-05 sent processed 6.58637e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-02:39:17 mask loss is 3.5304 ms per sentence is  4.6024,lr=7.883233e-05 sent processed 6.61094e+06
+2021-06-18-02:41:09 mask loss is 3.3571 ms per sentence is  4.5568,lr=7.874700e-05 sent processed 6.63552e+06
+2021-06-18-02:43:01 mask loss is 3.4344 ms per sentence is  4.5536,lr=7.866167e-05 sent processed 6.6601e+06
+2021-06-18-02:44:52 mask loss is 3.4094 ms per sentence is  4.5418,lr=7.857633e-05 sent processed 6.68467e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-02:46:45 mask loss is 3.5392 ms per sentence is  4.5681,lr=7.849100e-05 sent processed 6.70925e+06
+2021-06-18-02:48:36 mask loss is 3.5840 ms per sentence is  4.5313,lr=7.840567e-05 sent processed 6.73382e+06
+2021-06-18-02:50:28 mask loss is 3.7188 ms per sentence is  4.5437,lr=7.832033e-05 sent processed 6.7584e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-02:52:19 mask loss is 3.4857 ms per sentence is  4.5287,lr=7.823500e-05 sent processed 6.78298e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-02:54:11 mask loss is 3.4139 ms per sentence is  4.5560,lr=7.814967e-05 sent processed 6.80755e+06
+2021-06-18-02:56:03 mask loss is 3.5811 ms per sentence is  4.5580,lr=7.806433e-05 sent processed 6.83213e+06
+2021-06-18-02:57:55 mask loss is 3.5162 ms per sentence is  4.5661,lr=7.797900e-05 sent processed 6.8567e+06
+2021-06-18-02:59:47 mask loss is 3.4518 ms per sentence is  4.5594,lr=7.789367e-05 sent processed 6.88128e+06
+-------------------------epoch 13 ---------------------
+2021-06-18-03:01:40 mask loss is 3.4191 ms per sentence is  0.0000,lr=7.780833e-05 sent processed 6.90586e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-03:03:32 mask loss is 3.4188 ms per sentence is  4.5532,lr=7.772300e-05 sent processed 6.93043e+06
+2021-06-18-03:05:24 mask loss is 3.3637 ms per sentence is  4.5527,lr=7.763767e-05 sent processed 6.95501e+06
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-03:07:15 mask loss is 3.5912 ms per sentence is  4.5254,lr=7.755233e-05 sent processed 6.97958e+06
+2021-06-18-03:09:06 mask loss is 3.7859 ms per sentence is  4.5345,lr=7.746700e-05 sent processed 7.00416e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-03:10:57 mask loss is 3.8080 ms per sentence is  4.5091,lr=7.738167e-05 sent processed 7.02874e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-03:12:49 mask loss is 3.8056 ms per sentence is  4.5286,lr=7.729633e-05 sent processed 7.05331e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-03:14:39 mask loss is 3.7695 ms per sentence is  4.5095,lr=7.721100e-05 sent processed 7.07789e+06
+2021-06-18-03:16:31 mask loss is 3.7537 ms per sentence is  4.5353,lr=7.712567e-05 sent processed 7.10246e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-03:18:23 mask loss is 3.5816 ms per sentence is  4.5481,lr=7.704033e-05 sent processed 7.12704e+06
+2021-06-18-03:20:15 mask loss is 3.5609 ms per sentence is  4.5699,lr=7.695500e-05 sent processed 7.15162e+06
+2021-06-18-03:22:07 mask loss is 3.6065 ms per sentence is  4.5511,lr=7.686967e-05 sent processed 7.17619e+06
+2021-06-18-03:23:59 mask loss is 3.5764 ms per sentence is  4.5536,lr=7.678433e-05 sent processed 7.20077e+06
+2021-06-18-03:25:51 mask loss is 3.4594 ms per sentence is  4.5574,lr=7.669900e-05 sent processed 7.22534e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-03:27:43 mask loss is 3.4715 ms per sentence is  4.5570,lr=7.661367e-05 sent processed 7.24992e+06
+2021-06-18-03:29:34 mask loss is 3.6740 ms per sentence is  4.5217,lr=7.652833e-05 sent processed 7.2745e+06
+2021-06-18-03:31:26 mask loss is 3.7969 ms per sentence is  4.5708,lr=7.644300e-05 sent processed 7.29907e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-03:33:18 mask loss is 3.8282 ms per sentence is  4.5425,lr=7.635767e-05 sent processed 7.32365e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-03:35:10 mask loss is 3.7839 ms per sentence is  4.5723,lr=7.627233e-05 sent processed 7.34822e+06
+2021-06-18-03:37:02 mask loss is 3.6500 ms per sentence is  4.5616,lr=7.618700e-05 sent processed 7.3728e+06
+-------------------------epoch 14 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-03:38:55 mask loss is 3.5988 ms per sentence is  0.0000,lr=7.610167e-05 sent processed 7.39738e+06
+2021-06-18-03:40:47 mask loss is 3.6109 ms per sentence is  4.5456,lr=7.601633e-05 sent processed 7.42195e+06
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-03:42:39 mask loss is 3.5532 ms per sentence is  4.5599,lr=7.593100e-05 sent processed 7.44653e+06
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-18-03:44:30 mask loss is 3.5274 ms per sentence is  4.5323,lr=7.584567e-05 sent processed 7.4711e+06
+2021-06-18-03:46:22 mask loss is 3.5281 ms per sentence is  4.5552,lr=7.576033e-05 sent processed 7.49568e+06
+2021-06-18-03:48:14 mask loss is 3.6269 ms per sentence is  4.5235,lr=7.567500e-05 sent processed 7.52026e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-03:50:05 mask loss is 3.6992 ms per sentence is  4.5425,lr=7.558967e-05 sent processed 7.54483e+06
+2021-06-18-03:51:56 mask loss is 3.7295 ms per sentence is  4.5280,lr=7.550433e-05 sent processed 7.56941e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-03:53:48 mask loss is 3.8664 ms per sentence is  4.5370,lr=7.541900e-05 sent processed 7.59398e+06
+rank 0 is done for thread 3 for /search/odin/bingning/data/LALM/french/wiki.all.txt
+2021-06-18-03:55:39 mask loss is 3.8337 ms per sentence is  4.5366,lr=7.533367e-05 sent processed 7.61856e+06
+2021-06-18-03:57:31 mask loss is 3.7112 ms per sentence is  4.5229,lr=7.524833e-05 sent processed 7.64314e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-18-03:59:22 mask loss is 3.6144 ms per sentence is  4.5226,lr=7.516300e-05 sent processed 7.66771e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-04:01:14 mask loss is 3.5496 ms per sentence is  4.5482,lr=7.507767e-05 sent processed 7.69229e+06
+2021-06-18-04:03:05 mask loss is 3.5648 ms per sentence is  4.5373,lr=7.499233e-05 sent processed 7.71686e+06
+2021-06-18-04:04:57 mask loss is 3.5666 ms per sentence is  4.5470,lr=7.490700e-05 sent processed 7.74144e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-04:06:48 mask loss is 3.5175 ms per sentence is  4.5371,lr=7.482167e-05 sent processed 7.76602e+06
+2021-06-18-04:08:40 mask loss is 3.5656 ms per sentence is  4.5285,lr=7.473633e-05 sent processed 7.79059e+06
+2021-06-18-04:10:31 mask loss is 3.7163 ms per sentence is  4.5129,lr=7.465100e-05 sent processed 7.81517e+06
+2021-06-18-04:12:22 mask loss is 3.8449 ms per sentence is  4.5248,lr=7.456567e-05 sent processed 7.83974e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-04:14:13 mask loss is 3.8289 ms per sentence is  4.5153,lr=7.448033e-05 sent processed 7.86432e+06
+-------------------------epoch 15 ---------------------
+2021-06-18-04:16:05 mask loss is 3.7609 ms per sentence is  0.0000,lr=7.439500e-05 sent processed 7.8889e+06
+2021-06-18-04:17:56 mask loss is 3.6801 ms per sentence is  4.5195,lr=7.430967e-05 sent processed 7.91347e+06
+2021-06-18-04:19:48 mask loss is 3.6261 ms per sentence is  4.5481,lr=7.422433e-05 sent processed 7.93805e+06
+2021-06-18-04:21:39 mask loss is 3.5497 ms per sentence is  4.5331,lr=7.413900e-05 sent processed 7.96262e+06
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-04:23:31 mask loss is 3.4905 ms per sentence is  4.5580,lr=7.405367e-05 sent processed 7.9872e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-04:25:23 mask loss is 3.5635 ms per sentence is  4.5548,lr=7.396833e-05 sent processed 8.01178e+06
+2021-06-18-04:27:15 mask loss is 3.5023 ms per sentence is  4.5497,lr=7.388300e-05 sent processed 8.03635e+06
+2021-06-18-04:29:06 mask loss is 3.5337 ms per sentence is  4.5333,lr=7.379767e-05 sent processed 8.06093e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-04:30:58 mask loss is 3.5772 ms per sentence is  4.5424,lr=7.371233e-05 sent processed 8.0855e+06
+2021-06-18-04:32:49 mask loss is 3.7268 ms per sentence is  4.5143,lr=7.362700e-05 sent processed 8.11008e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-04:34:41 mask loss is 3.8065 ms per sentence is  4.5412,lr=7.354167e-05 sent processed 8.13466e+06
+2021-06-18-04:36:32 mask loss is 3.6699 ms per sentence is  4.5190,lr=7.345633e-05 sent processed 8.15923e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-04:38:23 mask loss is 3.6024 ms per sentence is  4.5531,lr=7.337100e-05 sent processed 8.18381e+06
+2021-06-18-04:40:15 mask loss is 3.6491 ms per sentence is  4.5537,lr=7.328567e-05 sent processed 8.20838e+06
+2021-06-18-04:42:08 mask loss is 3.4688 ms per sentence is  4.5796,lr=7.320033e-05 sent processed 8.23296e+06
+2021-06-18-04:44:00 mask loss is 3.4406 ms per sentence is  4.5476,lr=7.311500e-05 sent processed 8.25754e+06
+2021-06-18-04:45:52 mask loss is 3.3738 ms per sentence is  4.5494,lr=7.302967e-05 sent processed 8.28211e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-04:47:43 mask loss is 3.3810 ms per sentence is  4.5246,lr=7.294433e-05 sent processed 8.30669e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-04:49:35 mask loss is 3.4888 ms per sentence is  4.5534,lr=7.285900e-05 sent processed 8.33126e+06
+2021-06-18-04:51:26 mask loss is 3.6071 ms per sentence is  4.5411,lr=7.277367e-05 sent processed 8.35584e+06
+-------------------------epoch 16 ---------------------
+2021-06-18-04:53:18 mask loss is 3.7161 ms per sentence is  0.0000,lr=7.268833e-05 sent processed 8.38042e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-04:55:09 mask loss is 3.6404 ms per sentence is  4.5202,lr=7.260300e-05 sent processed 8.40499e+06
+2021-06-18-04:57:01 mask loss is 3.7978 ms per sentence is  4.5354,lr=7.251767e-05 sent processed 8.42957e+06
+2021-06-18-04:58:52 mask loss is 3.6700 ms per sentence is  4.5229,lr=7.243233e-05 sent processed 8.45414e+06
+2021-06-18-05:00:44 mask loss is 3.6242 ms per sentence is  4.5470,lr=7.234700e-05 sent processed 8.47872e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-05:02:35 mask loss is 3.4854 ms per sentence is  4.5349,lr=7.226167e-05 sent processed 8.5033e+06
+2021-06-18-05:04:26 mask loss is 3.5734 ms per sentence is  4.5275,lr=7.217633e-05 sent processed 8.52787e+06
+2021-06-18-05:06:17 mask loss is 3.5209 ms per sentence is  4.5189,lr=7.209100e-05 sent processed 8.55245e+06
+2021-06-18-05:08:09 mask loss is 3.4702 ms per sentence is  4.5360,lr=7.200567e-05 sent processed 8.57702e+06
+2021-06-18-05:10:00 mask loss is 3.4866 ms per sentence is  4.5218,lr=7.192033e-05 sent processed 8.6016e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-05:11:52 mask loss is 3.7106 ms per sentence is  4.5508,lr=7.183500e-05 sent processed 8.62618e+06
+2021-06-18-05:13:43 mask loss is 3.7480 ms per sentence is  4.5299,lr=7.174967e-05 sent processed 8.65075e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-05:15:35 mask loss is 3.8040 ms per sentence is  4.5312,lr=7.166433e-05 sent processed 8.67533e+06
+2021-06-18-05:17:26 mask loss is 3.7949 ms per sentence is  4.5195,lr=7.157900e-05 sent processed 8.6999e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-05:19:18 mask loss is 3.6496 ms per sentence is  4.5566,lr=7.149367e-05 sent processed 8.72448e+06
+2021-06-18-05:21:09 mask loss is 3.6362 ms per sentence is  4.5403,lr=7.140833e-05 sent processed 8.74906e+06
+2021-06-18-05:23:01 mask loss is 3.4831 ms per sentence is  4.5696,lr=7.132300e-05 sent processed 8.77363e+06
+2021-06-18-05:24:53 mask loss is 3.4717 ms per sentence is  4.5440,lr=7.123767e-05 sent processed 8.79821e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-05:26:45 mask loss is 3.3790 ms per sentence is  4.5611,lr=7.115233e-05 sent processed 8.82278e+06
+2021-06-18-05:28:37 mask loss is 3.4441 ms per sentence is  4.5374,lr=7.106700e-05 sent processed 8.84736e+06
+-------------------------epoch 17 ---------------------
+2021-06-18-05:30:29 mask loss is 3.4347 ms per sentence is  0.0000,lr=7.098167e-05 sent processed 8.87194e+06
+2021-06-18-05:32:21 mask loss is 3.5439 ms per sentence is  4.5278,lr=7.089633e-05 sent processed 8.89651e+06
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-05:34:12 mask loss is 3.5626 ms per sentence is  4.5491,lr=7.081100e-05 sent processed 8.92109e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-05:36:04 mask loss is 3.8053 ms per sentence is  4.5455,lr=7.072567e-05 sent processed 8.94566e+06
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-05:37:56 mask loss is 3.7759 ms per sentence is  4.5728,lr=7.064033e-05 sent processed 8.97024e+06
+2021-06-18-05:39:48 mask loss is 3.7226 ms per sentence is  4.5358,lr=7.055500e-05 sent processed 8.99482e+06
+2021-06-18-05:41:40 mask loss is 3.6621 ms per sentence is  4.5698,lr=7.046967e-05 sent processed 9.01939e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-05:43:32 mask loss is 3.5546 ms per sentence is  4.5524,lr=7.038433e-05 sent processed 9.04397e+06
+2021-06-18-05:45:24 mask loss is 3.5701 ms per sentence is  4.5615,lr=7.029900e-05 sent processed 9.06854e+06
+2021-06-18-05:47:16 mask loss is 3.4289 ms per sentence is  4.5383,lr=7.021367e-05 sent processed 9.09312e+06
+2021-06-18-05:49:08 mask loss is 3.5709 ms per sentence is  4.5504,lr=7.012833e-05 sent processed 9.1177e+06
+2021-06-18-05:50:59 mask loss is 3.5100 ms per sentence is  4.5465,lr=7.004300e-05 sent processed 9.14227e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-05:52:51 mask loss is 3.7251 ms per sentence is  4.5419,lr=6.995767e-05 sent processed 9.16685e+06
+2021-06-18-05:54:42 mask loss is 3.6321 ms per sentence is  4.5127,lr=6.987233e-05 sent processed 9.19142e+06
+rank 0 is done for thread 6 for /search/odin/bingning/data/LALM/german/wiki.all.txt
+2021-06-18-05:56:34 mask loss is 3.8378 ms per sentence is  4.5450,lr=6.978700e-05 sent processed 9.216e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-05:58:25 mask loss is 3.8114 ms per sentence is  4.5348,lr=6.970167e-05 sent processed 9.24058e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-06:00:17 mask loss is 3.7129 ms per sentence is  4.5511,lr=6.961633e-05 sent processed 9.26515e+06
+2021-06-18-06:02:08 mask loss is 3.5968 ms per sentence is  4.5115,lr=6.953100e-05 sent processed 9.28973e+06
+2021-06-18-06:04:00 mask loss is 3.6008 ms per sentence is  4.5655,lr=6.944567e-05 sent processed 9.3143e+06
+2021-06-18-06:05:51 mask loss is 3.5470 ms per sentence is  4.5278,lr=6.936033e-05 sent processed 9.33888e+06
+-------------------------epoch 18 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-06:07:44 mask loss is 3.5257 ms per sentence is  0.0000,lr=6.927500e-05 sent processed 9.36346e+06
+2021-06-18-06:09:35 mask loss is 3.4612 ms per sentence is  4.5412,lr=6.918967e-05 sent processed 9.38803e+06
+2021-06-18-06:11:28 mask loss is 3.4257 ms per sentence is  4.5740,lr=6.910433e-05 sent processed 9.41261e+06
+2021-06-18-06:13:19 mask loss is 3.6108 ms per sentence is  4.5238,lr=6.901900e-05 sent processed 9.43718e+06
+2021-06-18-06:15:11 mask loss is 3.7314 ms per sentence is  4.5357,lr=6.893367e-05 sent processed 9.46176e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-06:17:02 mask loss is 3.7783 ms per sentence is  4.5227,lr=6.884833e-05 sent processed 9.48634e+06
+2021-06-18-06:18:53 mask loss is 3.7167 ms per sentence is  4.5492,lr=6.876300e-05 sent processed 9.51091e+06
+2021-06-18-06:20:45 mask loss is 3.6049 ms per sentence is  4.5576,lr=6.867767e-05 sent processed 9.53549e+06
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-06:22:38 mask loss is 3.5040 ms per sentence is  4.5796,lr=6.859233e-05 sent processed 9.56006e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-06:24:30 mask loss is 3.5274 ms per sentence is  4.5601,lr=6.850700e-05 sent processed 9.58464e+06
+2021-06-18-06:26:22 mask loss is 3.4497 ms per sentence is  4.5586,lr=6.842167e-05 sent processed 9.60922e+06
+2021-06-18-06:28:14 mask loss is 3.4668 ms per sentence is  4.5466,lr=6.833633e-05 sent processed 9.63379e+06
+2021-06-18-06:30:06 mask loss is 3.4224 ms per sentence is  4.5509,lr=6.825100e-05 sent processed 9.65837e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-06:31:57 mask loss is 3.4937 ms per sentence is  4.5437,lr=6.816567e-05 sent processed 9.68294e+06
+2021-06-18-06:33:50 mask loss is 3.5544 ms per sentence is  4.5634,lr=6.808033e-05 sent processed 9.70752e+06
+2021-06-18-06:35:41 mask loss is 3.5580 ms per sentence is  4.5282,lr=6.799500e-05 sent processed 9.7321e+06
+2021-06-18-06:37:33 mask loss is 3.6311 ms per sentence is  4.5518,lr=6.790967e-05 sent processed 9.75667e+06
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-06:39:24 mask loss is 3.6862 ms per sentence is  4.5300,lr=6.782433e-05 sent processed 9.78125e+06
+2021-06-18-06:41:16 mask loss is 3.5808 ms per sentence is  4.5451,lr=6.773900e-05 sent processed 9.80582e+06
+2021-06-18-06:43:07 mask loss is 3.5335 ms per sentence is  4.5274,lr=6.765367e-05 sent processed 9.8304e+06
+-------------------------epoch 19 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-06:44:59 mask loss is 3.5099 ms per sentence is  0.0000,lr=6.756833e-05 sent processed 9.85498e+06
+2021-06-18-06:46:51 mask loss is 3.4416 ms per sentence is  4.5394,lr=6.748300e-05 sent processed 9.87955e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-06:48:43 mask loss is 3.4753 ms per sentence is  4.5515,lr=6.739767e-05 sent processed 9.90413e+06
+2021-06-18-06:50:34 mask loss is 3.4838 ms per sentence is  4.5101,lr=6.731233e-05 sent processed 9.9287e+06
+2021-06-18-06:52:25 mask loss is 3.5214 ms per sentence is  4.5425,lr=6.722700e-05 sent processed 9.95328e+06
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-06:54:16 mask loss is 3.7831 ms per sentence is  4.5228,lr=6.714167e-05 sent processed 9.97786e+06
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-06:56:08 mask loss is 3.7931 ms per sentence is  4.5342,lr=6.705633e-05 sent processed 1.00024e+07
+2021-06-18-06:57:59 mask loss is 3.7374 ms per sentence is  4.5194,lr=6.697100e-05 sent processed 1.0027e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-06:59:50 mask loss is 3.8018 ms per sentence is  4.5327,lr=6.688567e-05 sent processed 1.00516e+07
+2021-06-18-07:01:41 mask loss is 3.7388 ms per sentence is  4.5197,lr=6.680033e-05 sent processed 1.00762e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-07:03:33 mask loss is 3.6242 ms per sentence is  4.5425,lr=6.671500e-05 sent processed 1.01007e+07
+2021-06-18-07:05:25 mask loss is 3.6877 ms per sentence is  4.5442,lr=6.662967e-05 sent processed 1.01253e+07
+2021-06-18-07:07:16 mask loss is 3.5501 ms per sentence is  4.5364,lr=6.654433e-05 sent processed 1.01499e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-07:09:07 mask loss is 3.5082 ms per sentence is  4.5281,lr=6.645900e-05 sent processed 1.01745e+07
+2021-06-18-07:11:00 mask loss is 3.5334 ms per sentence is  4.5720,lr=6.637367e-05 sent processed 1.0199e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-07:12:51 mask loss is 3.5864 ms per sentence is  4.5351,lr=6.628833e-05 sent processed 1.02236e+07
+2021-06-18-07:14:43 mask loss is 3.6889 ms per sentence is  4.5423,lr=6.620300e-05 sent processed 1.02482e+07
+2021-06-18-07:16:34 mask loss is 3.7050 ms per sentence is  4.5408,lr=6.611767e-05 sent processed 1.02728e+07
+2021-06-18-07:18:26 mask loss is 3.8483 ms per sentence is  4.5498,lr=6.603233e-05 sent processed 1.02973e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-07:20:18 mask loss is 3.7444 ms per sentence is  4.5298,lr=6.594700e-05 sent processed 1.03219e+07
+-------------------------epoch 20 ---------------------
+2021-06-18-07:22:11 mask loss is 3.6517 ms per sentence is  0.0000,lr=6.586167e-05 sent processed 1.03465e+07
+2021-06-18-07:24:03 mask loss is 3.6017 ms per sentence is  4.5849,lr=6.577633e-05 sent processed 1.03711e+07
+2021-06-18-07:25:56 mask loss is 3.6675 ms per sentence is  4.5699,lr=6.569100e-05 sent processed 1.03956e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-07:27:47 mask loss is 3.5633 ms per sentence is  4.5388,lr=6.560567e-05 sent processed 1.04202e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-07:29:39 mask loss is 3.5460 ms per sentence is  4.5623,lr=6.552033e-05 sent processed 1.04448e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-07:31:31 mask loss is 3.4541 ms per sentence is  4.5253,lr=6.543500e-05 sent processed 1.04694e+07
+2021-06-18-07:33:22 mask loss is 3.6153 ms per sentence is  4.5405,lr=6.534967e-05 sent processed 1.0494e+07
+2021-06-18-07:35:14 mask loss is 3.7046 ms per sentence is  4.5380,lr=6.526433e-05 sent processed 1.05185e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-07:37:06 mask loss is 3.7516 ms per sentence is  4.5527,lr=6.517900e-05 sent processed 1.05431e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-07:38:58 mask loss is 3.7619 ms per sentence is  4.5618,lr=6.509367e-05 sent processed 1.05677e+07
+2021-06-18-07:40:49 mask loss is 3.7099 ms per sentence is  4.5302,lr=6.500833e-05 sent processed 1.05923e+07
+2021-06-18-07:42:40 mask loss is 3.7035 ms per sentence is  4.5192,lr=6.492300e-05 sent processed 1.06168e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-07:44:32 mask loss is 3.5544 ms per sentence is  4.5513,lr=6.483767e-05 sent processed 1.06414e+07
+2021-06-18-07:46:23 mask loss is 3.6190 ms per sentence is  4.5242,lr=6.475233e-05 sent processed 1.0666e+07
+2021-06-18-07:48:15 mask loss is 3.4717 ms per sentence is  4.5439,lr=6.466700e-05 sent processed 1.06906e+07
+2021-06-18-07:50:06 mask loss is 3.5770 ms per sentence is  4.5451,lr=6.458167e-05 sent processed 1.07151e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-07:51:59 mask loss is 3.4734 ms per sentence is  4.5670,lr=6.449633e-05 sent processed 1.07397e+07
+2021-06-18-07:53:49 mask loss is 3.5089 ms per sentence is  4.5067,lr=6.441100e-05 sent processed 1.07643e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-07:55:41 mask loss is 3.5912 ms per sentence is  4.5215,lr=6.432567e-05 sent processed 1.07889e+07
+2021-06-18-07:57:31 mask loss is 3.7371 ms per sentence is  4.5124,lr=6.424033e-05 sent processed 1.08134e+07
+-------------------------epoch 21 ---------------------
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-07:59:24 mask loss is 3.7806 ms per sentence is  0.0000,lr=6.415500e-05 sent processed 1.0838e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-08:01:15 mask loss is 3.6883 ms per sentence is  4.5111,lr=6.406967e-05 sent processed 1.08626e+07
+2021-06-18-08:03:06 mask loss is 3.6376 ms per sentence is  4.5346,lr=6.398433e-05 sent processed 1.08872e+07
+2021-06-18-08:04:57 mask loss is 3.5597 ms per sentence is  4.5241,lr=6.389900e-05 sent processed 1.09117e+07
+2021-06-18-08:06:49 mask loss is 3.5723 ms per sentence is  4.5510,lr=6.381367e-05 sent processed 1.09363e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-08:08:40 mask loss is 3.5299 ms per sentence is  4.5242,lr=6.372833e-05 sent processed 1.09609e+07
+2021-06-18-08:10:32 mask loss is 3.4851 ms per sentence is  4.5361,lr=6.364300e-05 sent processed 1.09855e+07
+2021-06-18-08:12:24 mask loss is 3.4137 ms per sentence is  4.5429,lr=6.355767e-05 sent processed 1.101e+07
+2021-06-18-08:14:15 mask loss is 3.4472 ms per sentence is  4.5515,lr=6.347233e-05 sent processed 1.10346e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-08:16:07 mask loss is 3.5607 ms per sentence is  4.5403,lr=6.338700e-05 sent processed 1.10592e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-08:17:59 mask loss is 3.6589 ms per sentence is  4.5582,lr=6.330167e-05 sent processed 1.10838e+07
+2021-06-18-08:19:51 mask loss is 3.6896 ms per sentence is  4.5483,lr=6.321633e-05 sent processed 1.11084e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-08:21:43 mask loss is 3.6858 ms per sentence is  4.5570,lr=6.313100e-05 sent processed 1.11329e+07
+2021-06-18-08:23:34 mask loss is 3.6869 ms per sentence is  4.5333,lr=6.304567e-05 sent processed 1.11575e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-08:25:26 mask loss is 3.5140 ms per sentence is  4.5639,lr=6.296033e-05 sent processed 1.11821e+07
+2021-06-18-08:27:18 mask loss is 3.5305 ms per sentence is  4.5205,lr=6.287500e-05 sent processed 1.12067e+07
+2021-06-18-08:29:10 mask loss is 3.3986 ms per sentence is  4.5659,lr=6.278967e-05 sent processed 1.12312e+07
+2021-06-18-08:31:01 mask loss is 3.3491 ms per sentence is  4.5242,lr=6.270433e-05 sent processed 1.12558e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-08:32:53 mask loss is 3.3010 ms per sentence is  4.5521,lr=6.261900e-05 sent processed 1.12804e+07
+2021-06-18-08:34:44 mask loss is 3.3690 ms per sentence is  4.5346,lr=6.253367e-05 sent processed 1.1305e+07
+-------------------------epoch 22 ---------------------
+2021-06-18-08:36:36 mask loss is 3.4961 ms per sentence is  0.0000,lr=6.244833e-05 sent processed 1.13295e+07
+2021-06-18-08:38:28 mask loss is 3.5644 ms per sentence is  4.5291,lr=6.236300e-05 sent processed 1.13541e+07
+2021-06-18-08:40:20 mask loss is 3.5746 ms per sentence is  4.5736,lr=6.227767e-05 sent processed 1.13787e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-08:42:11 mask loss is 3.5483 ms per sentence is  4.5241,lr=6.219233e-05 sent processed 1.14033e+07
+2021-06-18-08:44:03 mask loss is 3.6384 ms per sentence is  4.5447,lr=6.210700e-05 sent processed 1.14278e+07
+2021-06-18-08:45:54 mask loss is 3.5865 ms per sentence is  4.5174,lr=6.202167e-05 sent processed 1.14524e+07
+2021-06-18-08:47:46 mask loss is 3.6326 ms per sentence is  4.5601,lr=6.193633e-05 sent processed 1.1477e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-08:49:38 mask loss is 3.5648 ms per sentence is  4.5623,lr=6.185100e-05 sent processed 1.15016e+07
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-18-08:51:30 mask loss is 3.5531 ms per sentence is  4.5551,lr=6.176567e-05 sent processed 1.15261e+07
+2021-06-18-08:53:21 mask loss is 3.4706 ms per sentence is  4.5216,lr=6.168033e-05 sent processed 1.15507e+07
+2021-06-18-08:55:13 mask loss is 3.5671 ms per sentence is  4.5381,lr=6.159500e-05 sent processed 1.15753e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-08:57:04 mask loss is 3.6033 ms per sentence is  4.5151,lr=6.150967e-05 sent processed 1.15999e+07
+2021-06-18-08:58:55 mask loss is 3.6981 ms per sentence is  4.5371,lr=6.142433e-05 sent processed 1.16244e+07
+2021-06-18-09:00:46 mask loss is 3.7281 ms per sentence is  4.5059,lr=6.133900e-05 sent processed 1.1649e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-09:02:37 mask loss is 3.7301 ms per sentence is  4.5332,lr=6.125367e-05 sent processed 1.16736e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-09:04:29 mask loss is 3.6360 ms per sentence is  4.5323,lr=6.116833e-05 sent processed 1.16982e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-09:06:21 mask loss is 3.5739 ms per sentence is  4.5902,lr=6.108300e-05 sent processed 1.17228e+07
+2021-06-18-09:08:13 mask loss is 3.6418 ms per sentence is  4.5531,lr=6.099767e-05 sent processed 1.17473e+07
+2021-06-18-09:10:05 mask loss is 3.5786 ms per sentence is  4.5507,lr=6.091233e-05 sent processed 1.17719e+07
+2021-06-18-09:11:57 mask loss is 3.4864 ms per sentence is  4.5299,lr=6.082700e-05 sent processed 1.17965e+07
+-------------------------epoch 23 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-09:13:49 mask loss is 3.4178 ms per sentence is  0.0000,lr=6.074167e-05 sent processed 1.18211e+07
+2021-06-18-09:15:40 mask loss is 3.5184 ms per sentence is  4.5408,lr=6.065633e-05 sent processed 1.18456e+07
+2021-06-18-09:17:32 mask loss is 3.6150 ms per sentence is  4.5540,lr=6.057100e-05 sent processed 1.18702e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-09:19:24 mask loss is 3.6878 ms per sentence is  4.5329,lr=6.048567e-05 sent processed 1.18948e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-09:21:16 mask loss is 3.6057 ms per sentence is  4.5748,lr=6.040033e-05 sent processed 1.19194e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-09:23:07 mask loss is 3.7478 ms per sentence is  4.5238,lr=6.031500e-05 sent processed 1.19439e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-09:24:59 mask loss is 3.6428 ms per sentence is  4.5348,lr=6.022967e-05 sent processed 1.19685e+07
+2021-06-18-09:26:50 mask loss is 3.6236 ms per sentence is  4.5424,lr=6.014433e-05 sent processed 1.19931e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-09:28:42 mask loss is 3.5047 ms per sentence is  4.5508,lr=6.005900e-05 sent processed 1.20177e+07
+2021-06-18-09:30:34 mask loss is 3.6275 ms per sentence is  4.5493,lr=5.997367e-05 sent processed 1.20422e+07
+2021-06-18-09:32:26 mask loss is 3.5829 ms per sentence is  4.5412,lr=5.988833e-05 sent processed 1.20668e+07
+2021-06-18-09:34:17 mask loss is 3.5103 ms per sentence is  4.5330,lr=5.980300e-05 sent processed 1.20914e+07
+2021-06-18-09:36:09 mask loss is 3.5047 ms per sentence is  4.5569,lr=5.971767e-05 sent processed 1.2116e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-09:38:00 mask loss is 3.6099 ms per sentence is  4.5187,lr=5.963233e-05 sent processed 1.21405e+07
+2021-06-18-09:39:52 mask loss is 3.7272 ms per sentence is  4.5419,lr=5.954700e-05 sent processed 1.21651e+07
+2021-06-18-09:41:43 mask loss is 3.6813 ms per sentence is  4.5250,lr=5.946167e-05 sent processed 1.21897e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-09:43:35 mask loss is 3.7209 ms per sentence is  4.5473,lr=5.937633e-05 sent processed 1.22143e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-09:45:26 mask loss is 3.5695 ms per sentence is  4.5267,lr=5.929100e-05 sent processed 1.22388e+07
+2021-06-18-09:47:18 mask loss is 3.6571 ms per sentence is  4.5377,lr=5.920567e-05 sent processed 1.22634e+07
+2021-06-18-09:49:08 mask loss is 3.5580 ms per sentence is  4.5126,lr=5.912033e-05 sent processed 1.2288e+07
+-------------------------epoch 24 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-09:51:01 mask loss is 3.6111 ms per sentence is  0.0000,lr=5.903500e-05 sent processed 1.23126e+07
+2021-06-18-09:52:52 mask loss is 3.4226 ms per sentence is  4.5306,lr=5.894967e-05 sent processed 1.23372e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-09:54:43 mask loss is 3.4830 ms per sentence is  4.5355,lr=5.886433e-05 sent processed 1.23617e+07
+2021-06-18-09:56:35 mask loss is 3.4662 ms per sentence is  4.5278,lr=5.877900e-05 sent processed 1.23863e+07
+2021-06-18-09:58:26 mask loss is 3.6112 ms per sentence is  4.5493,lr=5.869367e-05 sent processed 1.24109e+07
+2021-06-18-10:00:18 mask loss is 3.6316 ms per sentence is  4.5227,lr=5.860833e-05 sent processed 1.24355e+07
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:02:10 mask loss is 3.7780 ms per sentence is  4.5793,lr=5.852300e-05 sent processed 1.246e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-10:04:02 mask loss is 3.6640 ms per sentence is  4.5662,lr=5.843767e-05 sent processed 1.24846e+07
+2021-06-18-10:05:55 mask loss is 3.5279 ms per sentence is  4.5780,lr=5.835233e-05 sent processed 1.25092e+07
+2021-06-18-10:07:47 mask loss is 3.5391 ms per sentence is  4.5475,lr=5.826700e-05 sent processed 1.25338e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:09:39 mask loss is 3.5487 ms per sentence is  4.5735,lr=5.818167e-05 sent processed 1.25583e+07
+2021-06-18-10:11:31 mask loss is 3.5665 ms per sentence is  4.5627,lr=5.809633e-05 sent processed 1.25829e+07
+2021-06-18-10:13:23 mask loss is 3.4105 ms per sentence is  4.5677,lr=5.801100e-05 sent processed 1.26075e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-10:15:15 mask loss is 3.4056 ms per sentence is  4.5394,lr=5.792567e-05 sent processed 1.26321e+07
+2021-06-18-10:17:07 mask loss is 3.4272 ms per sentence is  4.5718,lr=5.784033e-05 sent processed 1.26566e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:18:59 mask loss is 3.6179 ms per sentence is  4.5476,lr=5.775500e-05 sent processed 1.26812e+07
+2021-06-18-10:20:51 mask loss is 3.5456 ms per sentence is  4.5469,lr=5.766967e-05 sent processed 1.27058e+07
+2021-06-18-10:22:42 mask loss is 3.6377 ms per sentence is  4.5369,lr=5.758433e-05 sent processed 1.27304e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-10:24:34 mask loss is 3.5347 ms per sentence is  4.5527,lr=5.749900e-05 sent processed 1.27549e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:26:26 mask loss is 3.5707 ms per sentence is  4.5435,lr=5.741367e-05 sent processed 1.27795e+07
+-------------------------epoch 25 ---------------------
+2021-06-18-10:28:18 mask loss is 3.6018 ms per sentence is  0.0000,lr=5.732833e-05 sent processed 1.28041e+07
+2021-06-18-10:30:10 mask loss is 3.4373 ms per sentence is  4.5534,lr=5.724300e-05 sent processed 1.28287e+07
+2021-06-18-10:32:02 mask loss is 3.4094 ms per sentence is  4.5494,lr=5.715767e-05 sent processed 1.28532e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:33:53 mask loss is 3.4779 ms per sentence is  4.5289,lr=5.707233e-05 sent processed 1.28778e+07
+2021-06-18-10:35:45 mask loss is 3.5083 ms per sentence is  4.5441,lr=5.698700e-05 sent processed 1.29024e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-10:37:36 mask loss is 3.4653 ms per sentence is  4.5200,lr=5.690167e-05 sent processed 1.2927e+07
+2021-06-18-10:39:28 mask loss is 3.6255 ms per sentence is  4.5352,lr=5.681633e-05 sent processed 1.29516e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-10:41:18 mask loss is 3.7307 ms per sentence is  4.5043,lr=5.673100e-05 sent processed 1.29761e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:43:10 mask loss is 3.8053 ms per sentence is  4.5304,lr=5.664567e-05 sent processed 1.30007e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-10:45:01 mask loss is 3.7473 ms per sentence is  4.5204,lr=5.656033e-05 sent processed 1.30253e+07
+2021-06-18-10:46:52 mask loss is 3.6358 ms per sentence is  4.5373,lr=5.647500e-05 sent processed 1.30499e+07
+2021-06-18-10:48:43 mask loss is 3.5753 ms per sentence is  4.5216,lr=5.638967e-05 sent processed 1.30744e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:50:35 mask loss is 3.5776 ms per sentence is  4.5523,lr=5.630433e-05 sent processed 1.3099e+07
+2021-06-18-10:52:27 mask loss is 3.6120 ms per sentence is  4.5365,lr=5.621900e-05 sent processed 1.31236e+07
+2021-06-18-10:54:19 mask loss is 3.4602 ms per sentence is  4.5631,lr=5.613367e-05 sent processed 1.31482e+07
+2021-06-18-10:56:10 mask loss is 3.4315 ms per sentence is  4.5385,lr=5.604833e-05 sent processed 1.31727e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-10:58:03 mask loss is 3.4324 ms per sentence is  4.5681,lr=5.596300e-05 sent processed 1.31973e+07
+2021-06-18-10:59:54 mask loss is 3.6338 ms per sentence is  4.5417,lr=5.587767e-05 sent processed 1.32219e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-11:01:46 mask loss is 3.6676 ms per sentence is  4.5407,lr=5.579233e-05 sent processed 1.32465e+07
+2021-06-18-11:03:37 mask loss is 3.6777 ms per sentence is  4.5254,lr=5.570700e-05 sent processed 1.3271e+07
+-------------------------epoch 26 ---------------------
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-11:05:29 mask loss is 3.7410 ms per sentence is  0.0000,lr=5.562167e-05 sent processed 1.32956e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-11:07:21 mask loss is 3.6710 ms per sentence is  4.5435,lr=5.553633e-05 sent processed 1.33202e+07
+2021-06-18-11:09:13 mask loss is 3.6473 ms per sentence is  4.5624,lr=5.545100e-05 sent processed 1.33448e+07
+2021-06-18-11:11:05 mask loss is 3.5175 ms per sentence is  4.5713,lr=5.536567e-05 sent processed 1.33693e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-11:12:58 mask loss is 3.5895 ms per sentence is  4.5729,lr=5.528033e-05 sent processed 1.33939e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-11:14:49 mask loss is 3.4796 ms per sentence is  4.5396,lr=5.519500e-05 sent processed 1.34185e+07
+2021-06-18-11:16:42 mask loss is 3.5129 ms per sentence is  4.5696,lr=5.510967e-05 sent processed 1.34431e+07
+2021-06-18-11:18:33 mask loss is 3.4183 ms per sentence is  4.5365,lr=5.502433e-05 sent processed 1.34676e+07
+2021-06-18-11:20:25 mask loss is 3.6010 ms per sentence is  4.5533,lr=5.493900e-05 sent processed 1.34922e+07
+2021-06-18-11:22:16 mask loss is 3.7131 ms per sentence is  4.5216,lr=5.485367e-05 sent processed 1.35168e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-11:24:08 mask loss is 3.7517 ms per sentence is  4.5617,lr=5.476833e-05 sent processed 1.35414e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-11:26:00 mask loss is 3.6547 ms per sentence is  4.5294,lr=5.468300e-05 sent processed 1.3566e+07
+2021-06-18-11:27:51 mask loss is 3.6223 ms per sentence is  4.5402,lr=5.459767e-05 sent processed 1.35905e+07
+2021-06-18-11:29:42 mask loss is 3.6980 ms per sentence is  4.5187,lr=5.451233e-05 sent processed 1.36151e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-11:31:34 mask loss is 3.5266 ms per sentence is  4.5518,lr=5.442700e-05 sent processed 1.36397e+07
+2021-06-18-11:33:25 mask loss is 3.5161 ms per sentence is  4.5297,lr=5.434167e-05 sent processed 1.36643e+07
+2021-06-18-11:35:17 mask loss is 3.3844 ms per sentence is  4.5558,lr=5.425633e-05 sent processed 1.36888e+07
+2021-06-18-11:37:09 mask loss is 3.4971 ms per sentence is  4.5229,lr=5.417100e-05 sent processed 1.37134e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-11:39:00 mask loss is 3.3863 ms per sentence is  4.5398,lr=5.408567e-05 sent processed 1.3738e+07
+2021-06-18-11:40:52 mask loss is 3.5728 ms per sentence is  4.5400,lr=5.400033e-05 sent processed 1.37626e+07
+-------------------------epoch 27 ---------------------
+2021-06-18-11:42:44 mask loss is 3.4814 ms per sentence is  0.0000,lr=5.391500e-05 sent processed 1.37871e+07
+2021-06-18-11:44:35 mask loss is 3.6995 ms per sentence is  4.5310,lr=5.382967e-05 sent processed 1.38117e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-11:46:27 mask loss is 3.6145 ms per sentence is  4.5489,lr=5.374433e-05 sent processed 1.38363e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-11:48:19 mask loss is 3.5904 ms per sentence is  4.5302,lr=5.365900e-05 sent processed 1.38609e+07
+2021-06-18-11:50:10 mask loss is 3.3764 ms per sentence is  4.5495,lr=5.357367e-05 sent processed 1.38854e+07
+2021-06-18-11:52:02 mask loss is 3.4607 ms per sentence is  4.5406,lr=5.348833e-05 sent processed 1.391e+07
+2021-06-18-11:53:54 mask loss is 3.5374 ms per sentence is  4.5746,lr=5.340300e-05 sent processed 1.39346e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-11:55:46 mask loss is 3.4445 ms per sentence is  4.5522,lr=5.331767e-05 sent processed 1.39592e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-11:57:38 mask loss is 3.3474 ms per sentence is  4.5598,lr=5.323233e-05 sent processed 1.39837e+07
+2021-06-18-11:59:30 mask loss is 3.2693 ms per sentence is  4.5532,lr=5.314700e-05 sent processed 1.40083e+07
+2021-06-18-12:01:22 mask loss is 3.5503 ms per sentence is  4.5616,lr=5.306167e-05 sent processed 1.40329e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:03:14 mask loss is 3.5415 ms per sentence is  4.5267,lr=5.297633e-05 sent processed 1.40575e+07
+2021-06-18-12:05:05 mask loss is 3.6174 ms per sentence is  4.5395,lr=5.289100e-05 sent processed 1.4082e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-12:06:57 mask loss is 3.5336 ms per sentence is  4.5387,lr=5.280567e-05 sent processed 1.41066e+07
+2021-06-18-12:08:49 mask loss is 3.5888 ms per sentence is  4.5607,lr=5.272033e-05 sent processed 1.41312e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-12:10:40 mask loss is 3.5849 ms per sentence is  4.5300,lr=5.263500e-05 sent processed 1.41558e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:12:32 mask loss is 3.4163 ms per sentence is  4.5687,lr=5.254967e-05 sent processed 1.41804e+07
+2021-06-18-12:14:24 mask loss is 3.3520 ms per sentence is  4.5392,lr=5.246433e-05 sent processed 1.42049e+07
+2021-06-18-12:16:16 mask loss is 3.3927 ms per sentence is  4.5804,lr=5.237900e-05 sent processed 1.42295e+07
+2021-06-18-12:18:08 mask loss is 3.3676 ms per sentence is  4.5415,lr=5.229367e-05 sent processed 1.42541e+07
+-------------------------epoch 28 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:20:00 mask loss is 3.3622 ms per sentence is  0.0000,lr=5.220833e-05 sent processed 1.42787e+07
+2021-06-18-12:21:51 mask loss is 3.4017 ms per sentence is  4.5167,lr=5.212300e-05 sent processed 1.43032e+07
+2021-06-18-12:23:43 mask loss is 3.4060 ms per sentence is  4.5505,lr=5.203767e-05 sent processed 1.43278e+07
+2021-06-18-12:25:34 mask loss is 3.7089 ms per sentence is  4.5261,lr=5.195233e-05 sent processed 1.43524e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:27:26 mask loss is 3.5320 ms per sentence is  4.5443,lr=5.186700e-05 sent processed 1.4377e+07
+2021-06-18-12:29:17 mask loss is 3.3774 ms per sentence is  4.5248,lr=5.178167e-05 sent processed 1.44015e+07
+2021-06-18-12:31:09 mask loss is 3.4611 ms per sentence is  4.5305,lr=5.169633e-05 sent processed 1.44261e+07
+2021-06-18-12:33:00 mask loss is 3.6077 ms per sentence is  4.5462,lr=5.161100e-05 sent processed 1.44507e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-12:34:52 mask loss is 3.5464 ms per sentence is  4.5394,lr=5.152567e-05 sent processed 1.44753e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:36:43 mask loss is 3.4986 ms per sentence is  4.5282,lr=5.144033e-05 sent processed 1.44998e+07
+2021-06-18-12:38:35 mask loss is 3.3858 ms per sentence is  4.5413,lr=5.135500e-05 sent processed 1.45244e+07
+2021-06-18-12:40:26 mask loss is 3.4505 ms per sentence is  4.5292,lr=5.126967e-05 sent processed 1.4549e+07
+2021-06-18-12:42:18 mask loss is 3.6104 ms per sentence is  4.5412,lr=5.118433e-05 sent processed 1.45736e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:44:09 mask loss is 3.6064 ms per sentence is  4.5384,lr=5.109900e-05 sent processed 1.45981e+07
+2021-06-18-12:46:02 mask loss is 3.6308 ms per sentence is  4.5727,lr=5.101367e-05 sent processed 1.46227e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-12:47:53 mask loss is 3.6147 ms per sentence is  4.5343,lr=5.092833e-05 sent processed 1.46473e+07
+2021-06-18-12:49:45 mask loss is 3.6328 ms per sentence is  4.5691,lr=5.084300e-05 sent processed 1.46719e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:51:37 mask loss is 3.5472 ms per sentence is  4.5331,lr=5.075767e-05 sent processed 1.46964e+07
+2021-06-18-12:53:29 mask loss is 3.5297 ms per sentence is  4.5486,lr=5.067233e-05 sent processed 1.4721e+07
+2021-06-18-12:55:21 mask loss is 3.4899 ms per sentence is  4.5531,lr=5.058700e-05 sent processed 1.47456e+07
+-------------------------epoch 29 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-12:57:13 mask loss is 3.5113 ms per sentence is  0.0000,lr=5.050167e-05 sent processed 1.47702e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-12:59:04 mask loss is 3.3962 ms per sentence is  4.5288,lr=5.041633e-05 sent processed 1.47948e+07
+2021-06-18-13:00:56 mask loss is 3.4055 ms per sentence is  4.5538,lr=5.033100e-05 sent processed 1.48193e+07
+2021-06-18-13:02:48 mask loss is 3.4727 ms per sentence is  4.5741,lr=5.024567e-05 sent processed 1.48439e+07
+2021-06-18-13:04:41 mask loss is 3.6480 ms per sentence is  4.5773,lr=5.016033e-05 sent processed 1.48685e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-13:06:33 mask loss is 3.7099 ms per sentence is  4.5536,lr=5.007500e-05 sent processed 1.48931e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-13:08:26 mask loss is 3.6659 ms per sentence is  4.5835,lr=4.998967e-05 sent processed 1.49176e+07
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-18-13:10:18 mask loss is 3.5945 ms per sentence is  4.5624,lr=4.990433e-05 sent processed 1.49422e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-13:12:10 mask loss is 3.6580 ms per sentence is  4.5886,lr=4.981900e-05 sent processed 1.49668e+07
+2021-06-18-13:14:02 mask loss is 3.5884 ms per sentence is  4.5433,lr=4.973367e-05 sent processed 1.49914e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-13:15:54 mask loss is 3.6052 ms per sentence is  4.5444,lr=4.964833e-05 sent processed 1.50159e+07
+2021-06-18-13:17:45 mask loss is 3.5051 ms per sentence is  4.5468,lr=4.956300e-05 sent processed 1.50405e+07
+2021-06-18-13:19:37 mask loss is 3.4125 ms per sentence is  4.5381,lr=4.947767e-05 sent processed 1.50651e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-13:21:29 mask loss is 3.5407 ms per sentence is  4.5376,lr=4.939233e-05 sent processed 1.50897e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-13:23:20 mask loss is 3.5542 ms per sentence is  4.5420,lr=4.930700e-05 sent processed 1.51142e+07
+2021-06-18-13:25:11 mask loss is 3.6575 ms per sentence is  4.5175,lr=4.922167e-05 sent processed 1.51388e+07
+2021-06-18-13:27:03 mask loss is 3.6740 ms per sentence is  4.5439,lr=4.913633e-05 sent processed 1.51634e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-13:28:54 mask loss is 3.7392 ms per sentence is  4.5180,lr=4.905100e-05 sent processed 1.5188e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-13:30:46 mask loss is 3.6536 ms per sentence is  4.5460,lr=4.896567e-05 sent processed 1.52125e+07
+2021-06-18-13:32:37 mask loss is 3.5788 ms per sentence is  4.5460,lr=4.888033e-05 sent processed 1.52371e+07
+-------------------------epoch 30 ---------------------
+rank 0 is done for thread 3 for /search/odin/bingning/data/LALM/french/wiki.all.txt
+2021-06-18-13:34:30 mask loss is 3.5781 ms per sentence is  0.0000,lr=4.879500e-05 sent processed 1.52617e+07
+2021-06-18-13:36:21 mask loss is 3.5629 ms per sentence is  4.5297,lr=4.870967e-05 sent processed 1.52863e+07
+2021-06-18-13:38:13 mask loss is 3.5218 ms per sentence is  4.5448,lr=4.862433e-05 sent processed 1.53108e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-18-13:40:04 mask loss is 3.4416 ms per sentence is  4.5462,lr=4.853900e-05 sent processed 1.53354e+07
+2021-06-18-13:41:56 mask loss is 3.4332 ms per sentence is  4.5392,lr=4.845367e-05 sent processed 1.536e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-13:43:48 mask loss is 3.4774 ms per sentence is  4.5436,lr=4.836833e-05 sent processed 1.53846e+07
+2021-06-18-13:45:40 mask loss is 3.6446 ms per sentence is  4.5595,lr=4.828300e-05 sent processed 1.54092e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-13:47:31 mask loss is 3.6961 ms per sentence is  4.5503,lr=4.819767e-05 sent processed 1.54337e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-13:49:23 mask loss is 3.6712 ms per sentence is  4.5501,lr=4.811233e-05 sent processed 1.54583e+07
+2021-06-18-13:51:15 mask loss is 3.4561 ms per sentence is  4.5354,lr=4.802700e-05 sent processed 1.54829e+07
+2021-06-18-13:53:07 mask loss is 3.5806 ms per sentence is  4.5564,lr=4.794167e-05 sent processed 1.55075e+07
+2021-06-18-13:54:59 mask loss is 3.5057 ms per sentence is  4.5719,lr=4.785633e-05 sent processed 1.5532e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-13:56:52 mask loss is 3.4582 ms per sentence is  4.5811,lr=4.777100e-05 sent processed 1.55566e+07
+2021-06-18-13:58:44 mask loss is 3.3975 ms per sentence is  4.5602,lr=4.768567e-05 sent processed 1.55812e+07
+2021-06-18-14:00:36 mask loss is 3.3838 ms per sentence is  4.5649,lr=4.760033e-05 sent processed 1.56058e+07
+2021-06-18-14:02:27 mask loss is 3.4176 ms per sentence is  4.5324,lr=4.751500e-05 sent processed 1.56303e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-14:04:19 mask loss is 3.3962 ms per sentence is  4.5517,lr=4.742967e-05 sent processed 1.56549e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-14:06:11 mask loss is 3.4974 ms per sentence is  4.5429,lr=4.734433e-05 sent processed 1.56795e+07
+2021-06-18-14:08:03 mask loss is 3.5386 ms per sentence is  4.5542,lr=4.725900e-05 sent processed 1.57041e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-14:09:54 mask loss is 3.6227 ms per sentence is  4.5391,lr=4.717367e-05 sent processed 1.57286e+07
+-------------------------epoch 31 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-14:11:47 mask loss is 3.4217 ms per sentence is  0.0000,lr=4.708833e-05 sent processed 1.57532e+07
+2021-06-18-14:13:38 mask loss is 3.6091 ms per sentence is  4.5135,lr=4.700300e-05 sent processed 1.57778e+07
+2021-06-18-14:15:29 mask loss is 3.4549 ms per sentence is  4.5451,lr=4.691767e-05 sent processed 1.58024e+07
+2021-06-18-14:17:21 mask loss is 3.4756 ms per sentence is  4.5344,lr=4.683233e-05 sent processed 1.58269e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-14:19:13 mask loss is 3.4555 ms per sentence is  4.5508,lr=4.674700e-05 sent processed 1.58515e+07
+2021-06-18-14:21:04 mask loss is 3.3796 ms per sentence is  4.5424,lr=4.666167e-05 sent processed 1.58761e+07
+2021-06-18-14:22:56 mask loss is 3.3746 ms per sentence is  4.5544,lr=4.657633e-05 sent processed 1.59007e+07
+2021-06-18-14:24:47 mask loss is 3.5273 ms per sentence is  4.5239,lr=4.649100e-05 sent processed 1.59252e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-14:26:39 mask loss is 3.6954 ms per sentence is  4.5550,lr=4.640567e-05 sent processed 1.59498e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-14:28:30 mask loss is 3.6384 ms per sentence is  4.5084,lr=4.632033e-05 sent processed 1.59744e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-14:30:22 mask loss is 3.7097 ms per sentence is  4.5417,lr=4.623500e-05 sent processed 1.5999e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-14:32:13 mask loss is 3.6333 ms per sentence is  4.5237,lr=4.614967e-05 sent processed 1.60236e+07
+2021-06-18-14:34:05 mask loss is 3.7150 ms per sentence is  4.5413,lr=4.606433e-05 sent processed 1.60481e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-14:35:56 mask loss is 3.5240 ms per sentence is  4.5289,lr=4.597900e-05 sent processed 1.60727e+07
+2021-06-18-14:37:48 mask loss is 3.5753 ms per sentence is  4.5749,lr=4.589367e-05 sent processed 1.60973e+07
+2021-06-18-14:39:40 mask loss is 3.5137 ms per sentence is  4.5296,lr=4.580833e-05 sent processed 1.61219e+07
+2021-06-18-14:41:31 mask loss is 3.4761 ms per sentence is  4.5463,lr=4.572300e-05 sent processed 1.61464e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-14:43:23 mask loss is 3.3658 ms per sentence is  4.5393,lr=4.563767e-05 sent processed 1.6171e+07
+2021-06-18-14:45:15 mask loss is 3.4833 ms per sentence is  4.5557,lr=4.555233e-05 sent processed 1.61956e+07
+2021-06-18-14:47:06 mask loss is 3.6195 ms per sentence is  4.5397,lr=4.546700e-05 sent processed 1.62202e+07
+-------------------------epoch 32 ---------------------
+2021-06-18-14:48:59 mask loss is 3.6496 ms per sentence is  0.0000,lr=4.538167e-05 sent processed 1.62447e+07
+2021-06-18-14:50:50 mask loss is 3.6575 ms per sentence is  4.5437,lr=4.529633e-05 sent processed 1.62693e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-14:52:43 mask loss is 3.6034 ms per sentence is  4.5727,lr=4.521100e-05 sent processed 1.62939e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-14:54:34 mask loss is 3.5681 ms per sentence is  4.5405,lr=4.512567e-05 sent processed 1.63185e+07
+2021-06-18-14:56:27 mask loss is 3.4584 ms per sentence is  4.5694,lr=4.504033e-05 sent processed 1.6343e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-14:58:18 mask loss is 3.4792 ms per sentence is  4.5420,lr=4.495500e-05 sent processed 1.63676e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-15:00:10 mask loss is 3.4001 ms per sentence is  4.5578,lr=4.486967e-05 sent processed 1.63922e+07
+2021-06-18-15:02:02 mask loss is 3.3949 ms per sentence is  4.5381,lr=4.478433e-05 sent processed 1.64168e+07
+2021-06-18-15:03:54 mask loss is 3.3375 ms per sentence is  4.5503,lr=4.469900e-05 sent processed 1.64413e+07
+2021-06-18-15:05:45 mask loss is 3.4316 ms per sentence is  4.5441,lr=4.461367e-05 sent processed 1.64659e+07
+2021-06-18-15:07:37 mask loss is 3.4922 ms per sentence is  4.5523,lr=4.452833e-05 sent processed 1.64905e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-15:09:28 mask loss is 3.6360 ms per sentence is  4.5119,lr=4.444300e-05 sent processed 1.65151e+07
+2021-06-18-15:11:20 mask loss is 3.6629 ms per sentence is  4.5376,lr=4.435767e-05 sent processed 1.65396e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-15:13:11 mask loss is 3.6436 ms per sentence is  4.5277,lr=4.427233e-05 sent processed 1.65642e+07
+2021-06-18-15:15:03 mask loss is 3.6037 ms per sentence is  4.5566,lr=4.418700e-05 sent processed 1.65888e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-15:16:54 mask loss is 3.5549 ms per sentence is  4.5250,lr=4.410167e-05 sent processed 1.66134e+07
+2021-06-18-15:18:46 mask loss is 3.5486 ms per sentence is  4.5396,lr=4.401633e-05 sent processed 1.6638e+07
+2021-06-18-15:20:37 mask loss is 3.4775 ms per sentence is  4.5176,lr=4.393100e-05 sent processed 1.66625e+07
+2021-06-18-15:22:28 mask loss is 3.3720 ms per sentence is  4.5481,lr=4.384567e-05 sent processed 1.66871e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-15:24:20 mask loss is 3.3392 ms per sentence is  4.5350,lr=4.376033e-05 sent processed 1.67117e+07
+-------------------------epoch 33 ---------------------
+2021-06-18-15:26:12 mask loss is 3.4281 ms per sentence is  0.0000,lr=4.367500e-05 sent processed 1.67363e+07
+2021-06-18-15:28:03 mask loss is 3.5534 ms per sentence is  4.5144,lr=4.358967e-05 sent processed 1.67608e+07
+2021-06-18-15:29:54 mask loss is 3.6255 ms per sentence is  4.5216,lr=4.350433e-05 sent processed 1.67854e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-15:31:46 mask loss is 3.5763 ms per sentence is  4.5408,lr=4.341900e-05 sent processed 1.681e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-15:33:38 mask loss is 3.6206 ms per sentence is  4.5624,lr=4.333367e-05 sent processed 1.68346e+07
+2021-06-18-15:35:30 mask loss is 3.6048 ms per sentence is  4.5565,lr=4.324833e-05 sent processed 1.68591e+07
+2021-06-18-15:37:22 mask loss is 3.4592 ms per sentence is  4.5634,lr=4.316300e-05 sent processed 1.68837e+07
+2021-06-18-15:39:13 mask loss is 3.4765 ms per sentence is  4.5393,lr=4.307767e-05 sent processed 1.69083e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-15:41:05 mask loss is 3.4799 ms per sentence is  4.5530,lr=4.299233e-05 sent processed 1.69329e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-15:42:57 mask loss is 3.4169 ms per sentence is  4.5449,lr=4.290700e-05 sent processed 1.69574e+07
+2021-06-18-15:44:49 mask loss is 3.3119 ms per sentence is  4.5715,lr=4.282167e-05 sent processed 1.6982e+07
+2021-06-18-15:46:41 mask loss is 3.3290 ms per sentence is  4.5572,lr=4.273633e-05 sent processed 1.70066e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-15:48:34 mask loss is 3.4698 ms per sentence is  4.5616,lr=4.265100e-05 sent processed 1.70312e+07
+2021-06-18-15:50:25 mask loss is 3.5774 ms per sentence is  4.5271,lr=4.256567e-05 sent processed 1.70557e+07
+2021-06-18-15:52:17 mask loss is 3.5347 ms per sentence is  4.5531,lr=4.248033e-05 sent processed 1.70803e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-15:54:08 mask loss is 3.6136 ms per sentence is  4.5300,lr=4.239500e-05 sent processed 1.71049e+07
+2021-06-18-15:56:00 mask loss is 3.5514 ms per sentence is  4.5615,lr=4.230967e-05 sent processed 1.71295e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-15:57:52 mask loss is 3.4308 ms per sentence is  4.5443,lr=4.222433e-05 sent processed 1.7154e+07
+2021-06-18-15:59:44 mask loss is 3.4252 ms per sentence is  4.5471,lr=4.213900e-05 sent processed 1.71786e+07
+2021-06-18-16:01:35 mask loss is 3.4453 ms per sentence is  4.5335,lr=4.205367e-05 sent processed 1.72032e+07
+-------------------------epoch 34 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-16:03:28 mask loss is 3.3372 ms per sentence is  0.0000,lr=4.196833e-05 sent processed 1.72278e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-16:05:19 mask loss is 3.2573 ms per sentence is  4.5388,lr=4.188300e-05 sent processed 1.72524e+07
+2021-06-18-16:07:12 mask loss is 3.4195 ms per sentence is  4.5699,lr=4.179767e-05 sent processed 1.72769e+07
+2021-06-18-16:09:03 mask loss is 3.3666 ms per sentence is  4.5374,lr=4.171233e-05 sent processed 1.73015e+07
+2021-06-18-16:10:55 mask loss is 3.5644 ms per sentence is  4.5526,lr=4.162700e-05 sent processed 1.73261e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-16:12:46 mask loss is 3.6155 ms per sentence is  4.5072,lr=4.154167e-05 sent processed 1.73507e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-16:14:37 mask loss is 3.6680 ms per sentence is  4.5292,lr=4.145633e-05 sent processed 1.73752e+07
+2021-06-18-16:16:28 mask loss is 3.5311 ms per sentence is  4.5282,lr=4.137100e-05 sent processed 1.73998e+07
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-18-16:18:20 mask loss is 3.5581 ms per sentence is  4.5253,lr=4.128567e-05 sent processed 1.74244e+07
+2021-06-18-16:20:11 mask loss is 3.5178 ms per sentence is  4.5181,lr=4.120033e-05 sent processed 1.7449e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-16:22:02 mask loss is 3.5910 ms per sentence is  4.5535,lr=4.111500e-05 sent processed 1.74735e+07
+2021-06-18-16:23:54 mask loss is 3.4959 ms per sentence is  4.5302,lr=4.102967e-05 sent processed 1.74981e+07
+2021-06-18-16:25:45 mask loss is 3.4626 ms per sentence is  4.5424,lr=4.094433e-05 sent processed 1.75227e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-16:27:37 mask loss is 3.4656 ms per sentence is  4.5218,lr=4.085900e-05 sent processed 1.75473e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-16:29:28 mask loss is 3.5135 ms per sentence is  4.5448,lr=4.077367e-05 sent processed 1.75718e+07
+2021-06-18-16:31:20 mask loss is 3.7069 ms per sentence is  4.5273,lr=4.068833e-05 sent processed 1.75964e+07
+2021-06-18-16:33:11 mask loss is 3.6894 ms per sentence is  4.5504,lr=4.060300e-05 sent processed 1.7621e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-16:35:03 mask loss is 3.6393 ms per sentence is  4.5232,lr=4.051767e-05 sent processed 1.76456e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-16:36:54 mask loss is 3.5611 ms per sentence is  4.5536,lr=4.043233e-05 sent processed 1.76701e+07
+2021-06-18-16:38:46 mask loss is 3.5967 ms per sentence is  4.5302,lr=4.034700e-05 sent processed 1.76947e+07
+-------------------------epoch 35 ---------------------
+2021-06-18-16:40:38 mask loss is 3.5415 ms per sentence is  0.0000,lr=4.026167e-05 sent processed 1.77193e+07
+2021-06-18-16:42:29 mask loss is 3.5049 ms per sentence is  4.5299,lr=4.017633e-05 sent processed 1.77439e+07
+2021-06-18-16:44:21 mask loss is 3.4597 ms per sentence is  4.5559,lr=4.009100e-05 sent processed 1.77684e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-16:46:13 mask loss is 3.4436 ms per sentence is  4.5513,lr=4.000567e-05 sent processed 1.7793e+07
+2021-06-18-16:48:05 mask loss is 3.4520 ms per sentence is  4.5608,lr=3.992033e-05 sent processed 1.78176e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-16:49:57 mask loss is 3.5546 ms per sentence is  4.5357,lr=3.983500e-05 sent processed 1.78422e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-16:51:49 mask loss is 3.6965 ms per sentence is  4.5467,lr=3.974967e-05 sent processed 1.78668e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-16:53:40 mask loss is 3.7160 ms per sentence is  4.5301,lr=3.966433e-05 sent processed 1.78913e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-16:55:31 mask loss is 3.7131 ms per sentence is  4.5397,lr=3.957900e-05 sent processed 1.79159e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-16:57:23 mask loss is 3.6694 ms per sentence is  4.5310,lr=3.949367e-05 sent processed 1.79405e+07
+2021-06-18-16:59:15 mask loss is 3.6155 ms per sentence is  4.5548,lr=3.940833e-05 sent processed 1.79651e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:01:06 mask loss is 3.5350 ms per sentence is  4.5272,lr=3.932300e-05 sent processed 1.79896e+07
+2021-06-18-17:02:58 mask loss is 3.5881 ms per sentence is  4.5475,lr=3.923767e-05 sent processed 1.80142e+07
+2021-06-18-17:04:49 mask loss is 3.4431 ms per sentence is  4.5275,lr=3.915233e-05 sent processed 1.80388e+07
+2021-06-18-17:06:41 mask loss is 3.4567 ms per sentence is  4.5655,lr=3.906700e-05 sent processed 1.80634e+07
+2021-06-18-17:08:33 mask loss is 3.4162 ms per sentence is  4.5292,lr=3.898167e-05 sent processed 1.80879e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:10:24 mask loss is 3.5810 ms per sentence is  4.5358,lr=3.889633e-05 sent processed 1.81125e+07
+2021-06-18-17:12:15 mask loss is 3.6192 ms per sentence is  4.5104,lr=3.881100e-05 sent processed 1.81371e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-17:14:06 mask loss is 3.7229 ms per sentence is  4.5330,lr=3.872567e-05 sent processed 1.81617e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-17:15:58 mask loss is 3.6793 ms per sentence is  4.5320,lr=3.864033e-05 sent processed 1.81862e+07
+-------------------------epoch 36 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:17:50 mask loss is 3.6040 ms per sentence is  0.0000,lr=3.855500e-05 sent processed 1.82108e+07
+2021-06-18-17:19:42 mask loss is 3.6270 ms per sentence is  4.5547,lr=3.846967e-05 sent processed 1.82354e+07
+2021-06-18-17:21:34 mask loss is 3.5110 ms per sentence is  4.5666,lr=3.838433e-05 sent processed 1.826e+07
+2021-06-18-17:23:25 mask loss is 3.5698 ms per sentence is  4.5343,lr=3.829900e-05 sent processed 1.82845e+07
+2021-06-18-17:25:17 mask loss is 3.4120 ms per sentence is  4.5427,lr=3.821367e-05 sent processed 1.83091e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:27:09 mask loss is 3.4256 ms per sentence is  4.5440,lr=3.812833e-05 sent processed 1.83337e+07
+2021-06-18-17:29:01 mask loss is 3.3142 ms per sentence is  4.5784,lr=3.804300e-05 sent processed 1.83583e+07
+2021-06-18-17:30:52 mask loss is 3.4733 ms per sentence is  4.5278,lr=3.795767e-05 sent processed 1.83828e+07
+2021-06-18-17:32:44 mask loss is 3.5774 ms per sentence is  4.5365,lr=3.787233e-05 sent processed 1.84074e+07
+rank 0 is done for thread 6 for /search/odin/bingning/data/LALM/german/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:34:35 mask loss is 3.6688 ms per sentence is  4.5250,lr=3.778700e-05 sent processed 1.8432e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-17:36:27 mask loss is 3.5527 ms per sentence is  4.5606,lr=3.770167e-05 sent processed 1.84566e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-17:38:19 mask loss is 3.5260 ms per sentence is  4.5545,lr=3.761633e-05 sent processed 1.84812e+07
+2021-06-18-17:40:11 mask loss is 3.5621 ms per sentence is  4.5536,lr=3.753100e-05 sent processed 1.85057e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:42:03 mask loss is 3.4690 ms per sentence is  4.5703,lr=3.744567e-05 sent processed 1.85303e+07
+2021-06-18-17:43:56 mask loss is 3.5170 ms per sentence is  4.5894,lr=3.736033e-05 sent processed 1.85549e+07
+2021-06-18-17:45:48 mask loss is 3.3377 ms per sentence is  4.5518,lr=3.727500e-05 sent processed 1.85795e+07
+2021-06-18-17:47:41 mask loss is 3.4234 ms per sentence is  4.5787,lr=3.718967e-05 sent processed 1.8604e+07
+2021-06-18-17:49:32 mask loss is 3.3200 ms per sentence is  4.5385,lr=3.710433e-05 sent processed 1.86286e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:51:24 mask loss is 3.3405 ms per sentence is  4.5554,lr=3.701900e-05 sent processed 1.86532e+07
+2021-06-18-17:53:16 mask loss is 3.4339 ms per sentence is  4.5447,lr=3.693367e-05 sent processed 1.86778e+07
+-------------------------epoch 37 ---------------------
+2021-06-18-17:55:08 mask loss is 3.6251 ms per sentence is  0.0000,lr=3.684833e-05 sent processed 1.87023e+07
+2021-06-18-17:56:59 mask loss is 3.5160 ms per sentence is  4.5177,lr=3.676300e-05 sent processed 1.87269e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-17:58:50 mask loss is 3.5052 ms per sentence is  4.5456,lr=3.667767e-05 sent processed 1.87515e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-18:00:41 mask loss is 3.4488 ms per sentence is  4.5231,lr=3.659233e-05 sent processed 1.87761e+07
+2021-06-18-18:02:33 mask loss is 3.3245 ms per sentence is  4.5532,lr=3.650700e-05 sent processed 1.88006e+07
+2021-06-18-18:04:25 mask loss is 3.5127 ms per sentence is  4.5540,lr=3.642167e-05 sent processed 1.88252e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-18:06:17 mask loss is 3.3405 ms per sentence is  4.5406,lr=3.633633e-05 sent processed 1.88498e+07
+2021-06-18-18:08:08 mask loss is 3.3457 ms per sentence is  4.5158,lr=3.625100e-05 sent processed 1.88744e+07
+2021-06-18-18:10:00 mask loss is 3.3432 ms per sentence is  4.5467,lr=3.616567e-05 sent processed 1.88989e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-18:11:50 mask loss is 3.4817 ms per sentence is  4.5024,lr=3.608033e-05 sent processed 1.89235e+07
+2021-06-18-18:13:42 mask loss is 3.6007 ms per sentence is  4.5505,lr=3.599500e-05 sent processed 1.89481e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-18:15:33 mask loss is 3.7097 ms per sentence is  4.5278,lr=3.590967e-05 sent processed 1.89727e+07
+2021-06-18-18:17:25 mask loss is 3.6148 ms per sentence is  4.5408,lr=3.582433e-05 sent processed 1.89972e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-18:19:16 mask loss is 3.7211 ms per sentence is  4.5184,lr=3.573900e-05 sent processed 1.90218e+07
+2021-06-18-18:21:08 mask loss is 3.5989 ms per sentence is  4.5637,lr=3.565367e-05 sent processed 1.90464e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-18:23:00 mask loss is 3.5750 ms per sentence is  4.5442,lr=3.556833e-05 sent processed 1.9071e+07
+2021-06-18-18:24:52 mask loss is 3.5218 ms per sentence is  4.5491,lr=3.548300e-05 sent processed 1.90956e+07
+2021-06-18-18:26:43 mask loss is 3.4666 ms per sentence is  4.5478,lr=3.539767e-05 sent processed 1.91201e+07
+2021-06-18-18:28:36 mask loss is 3.4005 ms per sentence is  4.5632,lr=3.531233e-05 sent processed 1.91447e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-18:30:28 mask loss is 3.3930 ms per sentence is  4.5614,lr=3.522700e-05 sent processed 1.91693e+07
+-------------------------epoch 38 ---------------------
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-18-18:32:21 mask loss is 3.5917 ms per sentence is  0.0000,lr=3.514167e-05 sent processed 1.91939e+07
+2021-06-18-18:34:13 mask loss is 3.5266 ms per sentence is  4.5555,lr=3.505633e-05 sent processed 1.92184e+07
+2021-06-18-18:36:04 mask loss is 3.6477 ms per sentence is  4.5531,lr=3.497100e-05 sent processed 1.9243e+07
+2021-06-18-18:37:56 mask loss is 3.6541 ms per sentence is  4.5530,lr=3.488567e-05 sent processed 1.92676e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-18:39:49 mask loss is 3.6449 ms per sentence is  4.5657,lr=3.480033e-05 sent processed 1.92922e+07
+2021-06-18-18:41:40 mask loss is 3.5297 ms per sentence is  4.5285,lr=3.471500e-05 sent processed 1.93167e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-18:43:32 mask loss is 3.5596 ms per sentence is  4.5525,lr=3.462967e-05 sent processed 1.93413e+07
+2021-06-18-18:45:23 mask loss is 3.5559 ms per sentence is  4.5252,lr=3.454433e-05 sent processed 1.93659e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-18:47:15 mask loss is 3.5220 ms per sentence is  4.5523,lr=3.445900e-05 sent processed 1.93905e+07
+2021-06-18-18:49:06 mask loss is 3.4099 ms per sentence is  4.5204,lr=3.437367e-05 sent processed 1.9415e+07
+2021-06-18-18:50:57 mask loss is 3.4459 ms per sentence is  4.5265,lr=3.428833e-05 sent processed 1.94396e+07
+2021-06-18-18:52:48 mask loss is 3.5735 ms per sentence is  4.5243,lr=3.420300e-05 sent processed 1.94642e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-18:54:40 mask loss is 3.6018 ms per sentence is  4.5469,lr=3.411767e-05 sent processed 1.94888e+07
+2021-06-18-18:56:31 mask loss is 3.6561 ms per sentence is  4.5098,lr=3.403233e-05 sent processed 1.95133e+07
+2021-06-18-18:58:22 mask loss is 3.6374 ms per sentence is  4.5261,lr=3.394700e-05 sent processed 1.95379e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-19:00:13 mask loss is 3.6081 ms per sentence is  4.5037,lr=3.386167e-05 sent processed 1.95625e+07
+2021-06-18-19:02:04 mask loss is 3.5897 ms per sentence is  4.5356,lr=3.377633e-05 sent processed 1.95871e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-19:03:55 mask loss is 3.4871 ms per sentence is  4.5091,lr=3.369100e-05 sent processed 1.96116e+07
+2021-06-18-19:05:47 mask loss is 3.5190 ms per sentence is  4.5469,lr=3.360567e-05 sent processed 1.96362e+07
+2021-06-18-19:07:38 mask loss is 3.4408 ms per sentence is  4.5171,lr=3.352033e-05 sent processed 1.96608e+07
+-------------------------epoch 39 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-19:09:30 mask loss is 3.4540 ms per sentence is  0.0000,lr=3.343500e-05 sent processed 1.96854e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-19:11:22 mask loss is 3.4026 ms per sentence is  4.5332,lr=3.334967e-05 sent processed 1.971e+07
+2021-06-18-19:13:14 mask loss is 3.5080 ms per sentence is  4.5594,lr=3.326433e-05 sent processed 1.97345e+07
+2021-06-18-19:15:05 mask loss is 3.5362 ms per sentence is  4.5139,lr=3.317900e-05 sent processed 1.97591e+07
+2021-06-18-19:16:56 mask loss is 3.6655 ms per sentence is  4.5430,lr=3.309367e-05 sent processed 1.97837e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-19:18:48 mask loss is 3.6272 ms per sentence is  4.5332,lr=3.300833e-05 sent processed 1.98083e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-19:20:40 mask loss is 3.4844 ms per sentence is  4.5752,lr=3.292300e-05 sent processed 1.98328e+07
+2021-06-18-19:22:31 mask loss is 3.5074 ms per sentence is  4.5240,lr=3.283767e-05 sent processed 1.98574e+07
+2021-06-18-19:24:23 mask loss is 3.5566 ms per sentence is  4.5489,lr=3.275233e-05 sent processed 1.9882e+07
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-18-19:26:15 mask loss is 3.5745 ms per sentence is  4.5337,lr=3.266700e-05 sent processed 1.99066e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-19:28:07 mask loss is 3.3817 ms per sentence is  4.5663,lr=3.258167e-05 sent processed 1.99311e+07
+2021-06-18-19:29:58 mask loss is 3.3151 ms per sentence is  4.5363,lr=3.249633e-05 sent processed 1.99557e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-19:31:50 mask loss is 3.4073 ms per sentence is  4.5616,lr=3.241100e-05 sent processed 1.99803e+07
+2021-06-18-19:33:42 mask loss is 3.6221 ms per sentence is  4.5463,lr=3.232567e-05 sent processed 2.00049e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-19:35:34 mask loss is 3.4734 ms per sentence is  4.5580,lr=3.224033e-05 sent processed 2.00294e+07
+2021-06-18-19:37:25 mask loss is 3.5836 ms per sentence is  4.5275,lr=3.215500e-05 sent processed 2.0054e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-19:39:18 mask loss is 3.6083 ms per sentence is  4.5617,lr=3.206967e-05 sent processed 2.00786e+07
+2021-06-18-19:41:09 mask loss is 3.6427 ms per sentence is  4.5321,lr=3.198433e-05 sent processed 2.01032e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-19:43:01 mask loss is 3.4536 ms per sentence is  4.5573,lr=3.189900e-05 sent processed 2.01277e+07
+2021-06-18-19:44:52 mask loss is 3.3636 ms per sentence is  4.5387,lr=3.181367e-05 sent processed 2.01523e+07
+-------------------------epoch 40 ---------------------
+2021-06-18-19:46:45 mask loss is 3.3922 ms per sentence is  0.0000,lr=3.172833e-05 sent processed 2.01769e+07
+2021-06-18-19:48:37 mask loss is 3.4815 ms per sentence is  4.5426,lr=3.164300e-05 sent processed 2.02015e+07
+2021-06-18-19:50:28 mask loss is 3.3821 ms per sentence is  4.5530,lr=3.155767e-05 sent processed 2.0226e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-19:52:20 mask loss is 3.3537 ms per sentence is  4.5408,lr=3.147233e-05 sent processed 2.02506e+07
+2021-06-18-19:54:12 mask loss is 3.3381 ms per sentence is  4.5646,lr=3.138700e-05 sent processed 2.02752e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-19:56:03 mask loss is 3.5060 ms per sentence is  4.5039,lr=3.130167e-05 sent processed 2.02998e+07
+2021-06-18-19:57:54 mask loss is 3.6557 ms per sentence is  4.5249,lr=3.121633e-05 sent processed 2.03244e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-19:59:45 mask loss is 3.6066 ms per sentence is  4.5109,lr=3.113100e-05 sent processed 2.03489e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-20:01:36 mask loss is 3.5642 ms per sentence is  4.5371,lr=3.104567e-05 sent processed 2.03735e+07
+2021-06-18-20:03:27 mask loss is 3.6157 ms per sentence is  4.5065,lr=3.096033e-05 sent processed 2.03981e+07
+2021-06-18-20:05:19 mask loss is 3.6013 ms per sentence is  4.5611,lr=3.087500e-05 sent processed 2.04227e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-20:07:10 mask loss is 3.4868 ms per sentence is  4.5236,lr=3.078967e-05 sent processed 2.04472e+07
+2021-06-18-20:09:02 mask loss is 3.4915 ms per sentence is  4.5527,lr=3.070433e-05 sent processed 2.04718e+07
+2021-06-18-20:10:54 mask loss is 3.4052 ms per sentence is  4.5435,lr=3.061900e-05 sent processed 2.04964e+07
+2021-06-18-20:12:46 mask loss is 3.4560 ms per sentence is  4.5604,lr=3.053367e-05 sent processed 2.0521e+07
+2021-06-18-20:14:37 mask loss is 3.5107 ms per sentence is  4.5259,lr=3.044833e-05 sent processed 2.05455e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-20:16:29 mask loss is 3.5755 ms per sentence is  4.5469,lr=3.036300e-05 sent processed 2.05701e+07
+2021-06-18-20:18:21 mask loss is 3.5697 ms per sentence is  4.5472,lr=3.027767e-05 sent processed 2.05947e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-20:20:13 mask loss is 3.6757 ms per sentence is  4.5767,lr=3.019233e-05 sent processed 2.06193e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-20:22:05 mask loss is 3.6001 ms per sentence is  4.5397,lr=3.010700e-05 sent processed 2.06438e+07
+-------------------------epoch 41 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-20:23:58 mask loss is 3.5265 ms per sentence is  0.0000,lr=3.002167e-05 sent processed 2.06684e+07
+2021-06-18-20:25:49 mask loss is 3.5498 ms per sentence is  4.5445,lr=2.993633e-05 sent processed 2.0693e+07
+2021-06-18-20:27:41 mask loss is 3.5896 ms per sentence is  4.5650,lr=2.985100e-05 sent processed 2.07176e+07
+2021-06-18-20:29:33 mask loss is 3.5139 ms per sentence is  4.5385,lr=2.976567e-05 sent processed 2.07421e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-20:31:25 mask loss is 3.3433 ms per sentence is  4.5563,lr=2.968033e-05 sent processed 2.07667e+07
+2021-06-18-20:33:16 mask loss is 3.4468 ms per sentence is  4.5377,lr=2.959500e-05 sent processed 2.07913e+07
+2021-06-18-20:35:09 mask loss is 3.4605 ms per sentence is  4.5601,lr=2.950967e-05 sent processed 2.08159e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-20:37:00 mask loss is 3.6223 ms per sentence is  4.5312,lr=2.942433e-05 sent processed 2.08404e+07
+2021-06-18-20:38:51 mask loss is 3.5435 ms per sentence is  4.5353,lr=2.933900e-05 sent processed 2.0865e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-20:40:43 mask loss is 3.6789 ms per sentence is  4.5358,lr=2.925367e-05 sent processed 2.08896e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-20:42:34 mask loss is 3.5106 ms per sentence is  4.5411,lr=2.916833e-05 sent processed 2.09142e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-20:44:26 mask loss is 3.6168 ms per sentence is  4.5424,lr=2.908300e-05 sent processed 2.09388e+07
+2021-06-18-20:46:17 mask loss is 3.5834 ms per sentence is  4.5325,lr=2.899767e-05 sent processed 2.09633e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-20:48:09 mask loss is 3.5819 ms per sentence is  4.5236,lr=2.891233e-05 sent processed 2.09879e+07
+2021-06-18-20:50:00 mask loss is 3.4936 ms per sentence is  4.5330,lr=2.882700e-05 sent processed 2.10125e+07
+2021-06-18-20:51:51 mask loss is 3.4883 ms per sentence is  4.5129,lr=2.874167e-05 sent processed 2.10371e+07
+2021-06-18-20:53:43 mask loss is 3.4546 ms per sentence is  4.5525,lr=2.865633e-05 sent processed 2.10616e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-20:55:34 mask loss is 3.4590 ms per sentence is  4.5202,lr=2.857100e-05 sent processed 2.10862e+07
+2021-06-18-20:57:26 mask loss is 3.5966 ms per sentence is  4.5428,lr=2.848567e-05 sent processed 2.11108e+07
+2021-06-18-20:59:16 mask loss is 3.5412 ms per sentence is  4.5125,lr=2.840033e-05 sent processed 2.11354e+07
+-------------------------epoch 42 ---------------------
+2021-06-18-21:01:09 mask loss is 3.6863 ms per sentence is  0.0000,lr=2.831500e-05 sent processed 2.11599e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-21:03:00 mask loss is 3.5455 ms per sentence is  4.5401,lr=2.822967e-05 sent processed 2.11845e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-21:04:52 mask loss is 3.5941 ms per sentence is  4.5438,lr=2.814433e-05 sent processed 2.12091e+07
+2021-06-18-21:06:43 mask loss is 3.5226 ms per sentence is  4.5222,lr=2.805900e-05 sent processed 2.12337e+07
+2021-06-18-21:08:35 mask loss is 3.4945 ms per sentence is  4.5660,lr=2.797367e-05 sent processed 2.12582e+07
+2021-06-18-21:10:27 mask loss is 3.4503 ms per sentence is  4.5378,lr=2.788833e-05 sent processed 2.12828e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-21:12:19 mask loss is 3.3298 ms per sentence is  4.5607,lr=2.780300e-05 sent processed 2.13074e+07
+2021-06-18-21:14:11 mask loss is 3.2674 ms per sentence is  4.5535,lr=2.771767e-05 sent processed 2.1332e+07
+2021-06-18-21:16:03 mask loss is 3.3052 ms per sentence is  4.5534,lr=2.763233e-05 sent processed 2.13565e+07
+2021-06-18-21:17:55 mask loss is 3.4891 ms per sentence is  4.5459,lr=2.754700e-05 sent processed 2.13811e+07
+2021-06-18-21:19:47 mask loss is 3.4943 ms per sentence is  4.5565,lr=2.746167e-05 sent processed 2.14057e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-21:21:38 mask loss is 3.4599 ms per sentence is  4.5444,lr=2.737633e-05 sent processed 2.14303e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-21:23:30 mask loss is 3.4382 ms per sentence is  4.5578,lr=2.729100e-05 sent processed 2.14548e+07
+2021-06-18-21:25:22 mask loss is 3.5186 ms per sentence is  4.5382,lr=2.720567e-05 sent processed 2.14794e+07
+2021-06-18-21:27:14 mask loss is 3.5059 ms per sentence is  4.5529,lr=2.712033e-05 sent processed 2.1504e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-21:29:05 mask loss is 3.4644 ms per sentence is  4.5406,lr=2.703500e-05 sent processed 2.15286e+07
+2021-06-18-21:30:57 mask loss is 3.3321 ms per sentence is  4.5493,lr=2.694967e-05 sent processed 2.15532e+07
+2021-06-18-21:32:49 mask loss is 3.4144 ms per sentence is  4.5583,lr=2.686433e-05 sent processed 2.15777e+07
+2021-06-18-21:34:41 mask loss is 3.3709 ms per sentence is  4.5508,lr=2.677900e-05 sent processed 2.16023e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-21:36:32 mask loss is 3.2260 ms per sentence is  4.5315,lr=2.669367e-05 sent processed 2.16269e+07
+-------------------------epoch 43 ---------------------
+2021-06-18-21:38:24 mask loss is 3.3550 ms per sentence is  0.0000,lr=2.660833e-05 sent processed 2.16515e+07
+2021-06-18-21:40:16 mask loss is 3.4589 ms per sentence is  4.5312,lr=2.652300e-05 sent processed 2.1676e+07
+2021-06-18-21:42:08 mask loss is 3.4671 ms per sentence is  4.5513,lr=2.643767e-05 sent processed 2.17006e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-21:43:59 mask loss is 3.5116 ms per sentence is  4.5157,lr=2.635233e-05 sent processed 2.17252e+07
+2021-06-18-21:45:51 mask loss is 3.3768 ms per sentence is  4.5612,lr=2.626700e-05 sent processed 2.17498e+07
+2021-06-18-21:47:42 mask loss is 3.4459 ms per sentence is  4.5443,lr=2.618167e-05 sent processed 2.17743e+07
+2021-06-18-21:49:35 mask loss is 3.4539 ms per sentence is  4.5744,lr=2.609633e-05 sent processed 2.17989e+07
+2021-06-18-21:51:26 mask loss is 3.4413 ms per sentence is  4.5291,lr=2.601100e-05 sent processed 2.18235e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-21:53:18 mask loss is 3.3698 ms per sentence is  4.5454,lr=2.592567e-05 sent processed 2.18481e+07
+2021-06-18-21:55:09 mask loss is 3.3595 ms per sentence is  4.5282,lr=2.584033e-05 sent processed 2.18726e+07
+2021-06-18-21:57:01 mask loss is 3.4502 ms per sentence is  4.5398,lr=2.575500e-05 sent processed 2.18972e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-21:58:52 mask loss is 3.5889 ms per sentence is  4.5249,lr=2.566967e-05 sent processed 2.19218e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-22:00:43 mask loss is 3.5749 ms per sentence is  4.5412,lr=2.558433e-05 sent processed 2.19464e+07
+2021-06-18-22:02:34 mask loss is 3.5892 ms per sentence is  4.5109,lr=2.549900e-05 sent processed 2.19709e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-22:04:26 mask loss is 3.5100 ms per sentence is  4.5394,lr=2.541367e-05 sent processed 2.19955e+07
+2021-06-18-22:06:17 mask loss is 3.4384 ms per sentence is  4.5257,lr=2.532833e-05 sent processed 2.20201e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-22:08:09 mask loss is 3.5066 ms per sentence is  4.5642,lr=2.524300e-05 sent processed 2.20447e+07
+2021-06-18-22:10:01 mask loss is 3.5009 ms per sentence is  4.5316,lr=2.515767e-05 sent processed 2.20692e+07
+2021-06-18-22:11:52 mask loss is 3.5041 ms per sentence is  4.5413,lr=2.507233e-05 sent processed 2.20938e+07
+2021-06-18-22:13:44 mask loss is 3.4140 ms per sentence is  4.5354,lr=2.498700e-05 sent processed 2.21184e+07
+-------------------------epoch 44 ---------------------
+rank 0 is done for thread 0 for /search/odin/bingning/data/LALM/english/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-22:15:36 mask loss is 3.3978 ms per sentence is  0.0000,lr=2.490167e-05 sent processed 2.2143e+07
+2021-06-18-22:17:28 mask loss is 3.4089 ms per sentence is  4.5313,lr=2.481633e-05 sent processed 2.21676e+07
+2021-06-18-22:19:20 mask loss is 3.5281 ms per sentence is  4.5697,lr=2.473100e-05 sent processed 2.21921e+07
+2021-06-18-22:21:12 mask loss is 3.5925 ms per sentence is  4.5589,lr=2.464567e-05 sent processed 2.22167e+07
+2021-06-18-22:23:04 mask loss is 3.5913 ms per sentence is  4.5591,lr=2.456033e-05 sent processed 2.22413e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-22:24:55 mask loss is 3.5556 ms per sentence is  4.5287,lr=2.447500e-05 sent processed 2.22659e+07
+2021-06-18-22:26:47 mask loss is 3.5010 ms per sentence is  4.5617,lr=2.438967e-05 sent processed 2.22904e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-18-22:28:39 mask loss is 3.5601 ms per sentence is  4.5354,lr=2.430433e-05 sent processed 2.2315e+07
+2021-06-18-22:30:31 mask loss is 3.6143 ms per sentence is  4.5725,lr=2.421900e-05 sent processed 2.23396e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-22:32:23 mask loss is 3.4094 ms per sentence is  4.5329,lr=2.413367e-05 sent processed 2.23642e+07
+2021-06-18-22:34:14 mask loss is 3.4724 ms per sentence is  4.5499,lr=2.404833e-05 sent processed 2.23887e+07
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-18-22:36:06 mask loss is 3.4040 ms per sentence is  4.5458,lr=2.396300e-05 sent processed 2.24133e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-22:37:58 mask loss is 3.4700 ms per sentence is  4.5527,lr=2.387767e-05 sent processed 2.24379e+07
+2021-06-18-22:39:49 mask loss is 3.4992 ms per sentence is  4.5159,lr=2.379233e-05 sent processed 2.24625e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-22:41:40 mask loss is 3.6039 ms per sentence is  4.5351,lr=2.370700e-05 sent processed 2.2487e+07
+2021-06-18-22:43:32 mask loss is 3.5653 ms per sentence is  4.5207,lr=2.362167e-05 sent processed 2.25116e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-22:45:23 mask loss is 3.6476 ms per sentence is  4.5315,lr=2.353633e-05 sent processed 2.25362e+07
+2021-06-18-22:47:14 mask loss is 3.5601 ms per sentence is  4.5219,lr=2.345100e-05 sent processed 2.25608e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-22:49:05 mask loss is 3.5553 ms per sentence is  4.5356,lr=2.336567e-05 sent processed 2.25853e+07
+2021-06-18-22:50:56 mask loss is 3.4661 ms per sentence is  4.5141,lr=2.328033e-05 sent processed 2.26099e+07
+-------------------------epoch 45 ---------------------
+2021-06-18-22:52:49 mask loss is 3.5404 ms per sentence is  0.0000,lr=2.319500e-05 sent processed 2.26345e+07
+2021-06-18-22:54:40 mask loss is 3.4875 ms per sentence is  4.5508,lr=2.310967e-05 sent processed 2.26591e+07
+2021-06-18-22:56:33 mask loss is 3.3447 ms per sentence is  4.5615,lr=2.302433e-05 sent processed 2.26836e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-22:58:24 mask loss is 3.4138 ms per sentence is  4.5222,lr=2.293900e-05 sent processed 2.27082e+07
+2021-06-18-23:00:16 mask loss is 3.5261 ms per sentence is  4.5505,lr=2.285367e-05 sent processed 2.27328e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-23:02:07 mask loss is 3.5939 ms per sentence is  4.5216,lr=2.276833e-05 sent processed 2.27574e+07
+2021-06-18-23:03:58 mask loss is 3.5916 ms per sentence is  4.5372,lr=2.268300e-05 sent processed 2.2782e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-23:05:50 mask loss is 3.5763 ms per sentence is  4.5366,lr=2.259767e-05 sent processed 2.28065e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-23:07:42 mask loss is 3.4622 ms per sentence is  4.5592,lr=2.251233e-05 sent processed 2.28311e+07
+2021-06-18-23:09:33 mask loss is 3.6678 ms per sentence is  4.5454,lr=2.242700e-05 sent processed 2.28557e+07
+rank 0 is done for thread 3 for /search/odin/bingning/data/LALM/french/wiki.all.txt
+2021-06-18-23:11:26 mask loss is 3.5453 ms per sentence is  4.5606,lr=2.234167e-05 sent processed 2.28803e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-23:13:17 mask loss is 3.4326 ms per sentence is  4.5463,lr=2.225633e-05 sent processed 2.29048e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-18-23:15:09 mask loss is 3.3209 ms per sentence is  4.5537,lr=2.217100e-05 sent processed 2.29294e+07
+2021-06-18-23:17:01 mask loss is 3.3601 ms per sentence is  4.5497,lr=2.208567e-05 sent processed 2.2954e+07
+2021-06-18-23:18:53 mask loss is 3.4158 ms per sentence is  4.5523,lr=2.200033e-05 sent processed 2.29786e+07
+2021-06-18-23:20:45 mask loss is 3.4089 ms per sentence is  4.5503,lr=2.191500e-05 sent processed 2.30031e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-18-23:22:37 mask loss is 3.4746 ms per sentence is  4.5541,lr=2.182967e-05 sent processed 2.30277e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-23:24:28 mask loss is 3.5176 ms per sentence is  4.5372,lr=2.174433e-05 sent processed 2.30523e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-23:26:20 mask loss is 3.5533 ms per sentence is  4.5339,lr=2.165900e-05 sent processed 2.30769e+07
+2021-06-18-23:28:11 mask loss is 3.3847 ms per sentence is  4.5305,lr=2.157367e-05 sent processed 2.31014e+07
+-------------------------epoch 46 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-23:30:04 mask loss is 3.4388 ms per sentence is  0.0000,lr=2.148833e-05 sent processed 2.3126e+07
+2021-06-18-23:31:55 mask loss is 3.3712 ms per sentence is  4.5393,lr=2.140300e-05 sent processed 2.31506e+07
+2021-06-18-23:33:47 mask loss is 3.4103 ms per sentence is  4.5561,lr=2.131767e-05 sent processed 2.31752e+07
+2021-06-18-23:35:38 mask loss is 3.3097 ms per sentence is  4.5164,lr=2.123233e-05 sent processed 2.31997e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-23:37:30 mask loss is 3.0969 ms per sentence is  4.5636,lr=2.114700e-05 sent processed 2.32243e+07
+2021-06-18-23:39:22 mask loss is 3.1395 ms per sentence is  4.5359,lr=2.106167e-05 sent processed 2.32489e+07
+2021-06-18-23:41:13 mask loss is 3.3019 ms per sentence is  4.5322,lr=2.097633e-05 sent processed 2.32735e+07
+2021-06-18-23:43:04 mask loss is 3.4386 ms per sentence is  4.5004,lr=2.089100e-05 sent processed 2.3298e+07
+2021-06-18-23:44:55 mask loss is 3.4123 ms per sentence is  4.5436,lr=2.080567e-05 sent processed 2.33226e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-18-23:46:47 mask loss is 3.4325 ms per sentence is  4.5282,lr=2.072033e-05 sent processed 2.33472e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-18-23:48:38 mask loss is 3.3600 ms per sentence is  4.5461,lr=2.063500e-05 sent processed 2.33718e+07
+2021-06-18-23:50:30 mask loss is 3.5500 ms per sentence is  4.5313,lr=2.054967e-05 sent processed 2.33964e+07
+2021-06-18-23:52:22 mask loss is 3.5148 ms per sentence is  4.5494,lr=2.046433e-05 sent processed 2.34209e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-18-23:54:13 mask loss is 3.4515 ms per sentence is  4.5238,lr=2.037900e-05 sent processed 2.34455e+07
+2021-06-18-23:56:04 mask loss is 3.4917 ms per sentence is  4.5391,lr=2.029367e-05 sent processed 2.34701e+07
+2021-06-18-23:57:56 mask loss is 3.4648 ms per sentence is  4.5373,lr=2.020833e-05 sent processed 2.34947e+07
+2021-06-18-23:59:47 mask loss is 3.4239 ms per sentence is  4.5422,lr=2.012300e-05 sent processed 2.35192e+07
+2021-06-19-00:01:39 mask loss is 3.4509 ms per sentence is  4.5586,lr=2.003767e-05 sent processed 2.35438e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-00:03:32 mask loss is 3.5818 ms per sentence is  4.5844,lr=1.995233e-05 sent processed 2.35684e+07
+2021-06-19-00:05:24 mask loss is 3.5841 ms per sentence is  4.5538,lr=1.986700e-05 sent processed 2.3593e+07
+-------------------------epoch 47 ---------------------
+2021-06-19-00:07:16 mask loss is 3.5220 ms per sentence is  0.0000,lr=1.978167e-05 sent processed 2.36175e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-00:09:08 mask loss is 3.5215 ms per sentence is  4.5347,lr=1.969633e-05 sent processed 2.36421e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-00:10:59 mask loss is 3.5687 ms per sentence is  4.5534,lr=1.961100e-05 sent processed 2.36667e+07
+2021-06-19-00:12:51 mask loss is 3.5274 ms per sentence is  4.5353,lr=1.952567e-05 sent processed 2.36913e+07
+2021-06-19-00:14:43 mask loss is 3.4543 ms per sentence is  4.5561,lr=1.944033e-05 sent processed 2.37158e+07
+2021-06-19-00:16:34 mask loss is 3.3949 ms per sentence is  4.5217,lr=1.935500e-05 sent processed 2.37404e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-00:18:26 mask loss is 3.3082 ms per sentence is  4.5598,lr=1.926967e-05 sent processed 2.3765e+07
+2021-06-19-00:20:18 mask loss is 3.4226 ms per sentence is  4.5394,lr=1.918433e-05 sent processed 2.37896e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-19-00:22:10 mask loss is 3.3882 ms per sentence is  4.5624,lr=1.909900e-05 sent processed 2.38141e+07
+2021-06-19-00:24:01 mask loss is 3.4529 ms per sentence is  4.5344,lr=1.901367e-05 sent processed 2.38387e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-00:25:53 mask loss is 3.4844 ms per sentence is  4.5539,lr=1.892833e-05 sent processed 2.38633e+07
+2021-06-19-00:27:45 mask loss is 3.5539 ms per sentence is  4.5509,lr=1.884300e-05 sent processed 2.38879e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-19-00:29:36 mask loss is 3.5335 ms per sentence is  4.5295,lr=1.875767e-05 sent processed 2.39124e+07
+2021-06-19-00:31:28 mask loss is 3.5903 ms per sentence is  4.5292,lr=1.867233e-05 sent processed 2.3937e+07
+2021-06-19-00:33:20 mask loss is 3.5068 ms per sentence is  4.5528,lr=1.858700e-05 sent processed 2.39616e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-00:35:10 mask loss is 3.4882 ms per sentence is  4.5156,lr=1.850167e-05 sent processed 2.39862e+07
+2021-06-19-00:37:02 mask loss is 3.4513 ms per sentence is  4.5340,lr=1.841633e-05 sent processed 2.40108e+07
+2021-06-19-00:38:53 mask loss is 3.3759 ms per sentence is  4.5272,lr=1.833100e-05 sent processed 2.40353e+07
+2021-06-19-00:40:45 mask loss is 3.4077 ms per sentence is  4.5450,lr=1.824567e-05 sent processed 2.40599e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-00:42:36 mask loss is 3.4762 ms per sentence is  4.5244,lr=1.816033e-05 sent processed 2.40845e+07
+-------------------------epoch 48 ---------------------
+2021-06-19-00:44:28 mask loss is 3.5349 ms per sentence is  0.0000,lr=1.807500e-05 sent processed 2.41091e+07
+2021-06-19-00:46:19 mask loss is 3.5197 ms per sentence is  4.5219,lr=1.798967e-05 sent processed 2.41336e+07
+2021-06-19-00:48:11 mask loss is 3.5650 ms per sentence is  4.5324,lr=1.790433e-05 sent processed 2.41582e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-00:50:02 mask loss is 3.5000 ms per sentence is  4.5207,lr=1.781900e-05 sent processed 2.41828e+07
+2021-06-19-00:51:53 mask loss is 3.5275 ms per sentence is  4.5465,lr=1.773367e-05 sent processed 2.42074e+07
+2021-06-19-00:53:45 mask loss is 3.5733 ms per sentence is  4.5259,lr=1.764833e-05 sent processed 2.42319e+07
+2021-06-19-00:55:37 mask loss is 3.4749 ms per sentence is  4.5563,lr=1.756300e-05 sent processed 2.42565e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-00:57:29 mask loss is 3.3687 ms per sentence is  4.5619,lr=1.747767e-05 sent processed 2.42811e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-00:59:21 mask loss is 3.3289 ms per sentence is  4.5577,lr=1.739233e-05 sent processed 2.43057e+07
+2021-06-19-01:01:13 mask loss is 3.3996 ms per sentence is  4.5572,lr=1.730700e-05 sent processed 2.43302e+07
+2021-06-19-01:03:05 mask loss is 3.4344 ms per sentence is  4.5582,lr=1.722167e-05 sent processed 2.43548e+07
+2021-06-19-01:04:57 mask loss is 3.4726 ms per sentence is  4.5523,lr=1.713633e-05 sent processed 2.43794e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-01:06:49 mask loss is 3.4795 ms per sentence is  4.5655,lr=1.705100e-05 sent processed 2.4404e+07
+2021-06-19-01:08:41 mask loss is 3.4056 ms per sentence is  4.5585,lr=1.696567e-05 sent processed 2.44285e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-01:10:33 mask loss is 3.3896 ms per sentence is  4.5532,lr=1.688033e-05 sent processed 2.44531e+07
+2021-06-19-01:12:25 mask loss is 3.5022 ms per sentence is  4.5599,lr=1.679500e-05 sent processed 2.44777e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-01:14:17 mask loss is 3.4431 ms per sentence is  4.5746,lr=1.670967e-05 sent processed 2.45023e+07
+2021-06-19-01:16:09 mask loss is 3.3351 ms per sentence is  4.5479,lr=1.662433e-05 sent processed 2.45268e+07
+2021-06-19-01:18:01 mask loss is 3.3866 ms per sentence is  4.5570,lr=1.653900e-05 sent processed 2.45514e+07
+2021-06-19-01:19:53 mask loss is 3.3262 ms per sentence is  4.5365,lr=1.645367e-05 sent processed 2.4576e+07
+-------------------------epoch 49 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-01:21:45 mask loss is 3.2582 ms per sentence is  0.0000,lr=1.636833e-05 sent processed 2.46006e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-01:23:36 mask loss is 3.3523 ms per sentence is  4.5188,lr=1.628300e-05 sent processed 2.46252e+07
+2021-06-19-01:25:28 mask loss is 3.4726 ms per sentence is  4.5655,lr=1.619767e-05 sent processed 2.46497e+07
+2021-06-19-01:27:20 mask loss is 3.4130 ms per sentence is  4.5455,lr=1.611233e-05 sent processed 2.46743e+07
+2021-06-19-01:29:12 mask loss is 3.5137 ms per sentence is  4.5640,lr=1.602700e-05 sent processed 2.46989e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-01:31:03 mask loss is 3.3850 ms per sentence is  4.5326,lr=1.594167e-05 sent processed 2.47235e+07
+2021-06-19-01:32:56 mask loss is 3.3626 ms per sentence is  4.5613,lr=1.585633e-05 sent processed 2.4748e+07
+2021-06-19-01:34:47 mask loss is 3.4504 ms per sentence is  4.5352,lr=1.577100e-05 sent processed 2.47726e+07
+2021-06-19-01:36:38 mask loss is 3.4720 ms per sentence is  4.5341,lr=1.568567e-05 sent processed 2.47972e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-01:38:29 mask loss is 3.4558 ms per sentence is  4.5086,lr=1.560033e-05 sent processed 2.48218e+07
+2021-06-19-01:40:22 mask loss is 3.3792 ms per sentence is  4.5702,lr=1.551500e-05 sent processed 2.48463e+07
+2021-06-19-01:42:14 mask loss is 3.4317 ms per sentence is  4.5746,lr=1.542967e-05 sent processed 2.48709e+07
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-01:44:06 mask loss is 3.5077 ms per sentence is  4.5476,lr=1.534433e-05 sent processed 2.48955e+07
+2021-06-19-01:45:58 mask loss is 3.5830 ms per sentence is  4.5509,lr=1.525900e-05 sent processed 2.49201e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-01:47:50 mask loss is 3.5912 ms per sentence is  4.5652,lr=1.517367e-05 sent processed 2.49446e+07
+2021-06-19-01:49:41 mask loss is 3.5318 ms per sentence is  4.5228,lr=1.508833e-05 sent processed 2.49692e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-01:51:32 mask loss is 3.5891 ms per sentence is  4.5363,lr=1.500300e-05 sent processed 2.49938e+07
+2021-06-19-01:53:24 mask loss is 3.5792 ms per sentence is  4.5320,lr=1.491767e-05 sent processed 2.50184e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-01:55:16 mask loss is 3.5874 ms per sentence is  4.5634,lr=1.483233e-05 sent processed 2.50429e+07
+2021-06-19-01:57:08 mask loss is 3.4907 ms per sentence is  4.5578,lr=1.474700e-05 sent processed 2.50675e+07
+-------------------------epoch 50 ---------------------
+2021-06-19-01:59:01 mask loss is 3.5045 ms per sentence is  0.0000,lr=1.466167e-05 sent processed 2.50921e+07
+2021-06-19-02:00:52 mask loss is 3.4465 ms per sentence is  4.5335,lr=1.457633e-05 sent processed 2.51167e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-02:02:44 mask loss is 3.4749 ms per sentence is  4.5643,lr=1.449100e-05 sent processed 2.51412e+07
+2021-06-19-02:04:36 mask loss is 3.4738 ms per sentence is  4.5377,lr=1.440567e-05 sent processed 2.51658e+07
+2021-06-19-02:06:28 mask loss is 3.5668 ms per sentence is  4.5905,lr=1.432033e-05 sent processed 2.51904e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-02:08:20 mask loss is 3.5796 ms per sentence is  4.5517,lr=1.423500e-05 sent processed 2.5215e+07
+2021-06-19-02:10:12 mask loss is 3.5691 ms per sentence is  4.5457,lr=1.414967e-05 sent processed 2.52396e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-02:12:03 mask loss is 3.5712 ms per sentence is  4.5323,lr=1.406433e-05 sent processed 2.52641e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-19-02:13:55 mask loss is 3.5240 ms per sentence is  4.5602,lr=1.397900e-05 sent processed 2.52887e+07
+2021-06-19-02:15:47 mask loss is 3.6277 ms per sentence is  4.5453,lr=1.389367e-05 sent processed 2.53133e+07
+2021-06-19-02:17:39 mask loss is 3.5088 ms per sentence is  4.5451,lr=1.380833e-05 sent processed 2.53379e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-02:19:30 mask loss is 3.4993 ms per sentence is  4.5283,lr=1.372300e-05 sent processed 2.53624e+07
+2021-06-19-02:21:22 mask loss is 3.3781 ms per sentence is  4.5415,lr=1.363767e-05 sent processed 2.5387e+07
+2021-06-19-02:23:13 mask loss is 3.4734 ms per sentence is  4.5418,lr=1.355233e-05 sent processed 2.54116e+07
+2021-06-19-02:25:05 mask loss is 3.4626 ms per sentence is  4.5499,lr=1.346700e-05 sent processed 2.54362e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-02:26:57 mask loss is 3.5844 ms per sentence is  4.5330,lr=1.338167e-05 sent processed 2.54607e+07
+2021-06-19-02:28:48 mask loss is 3.5384 ms per sentence is  4.5344,lr=1.329633e-05 sent processed 2.54853e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-02:30:39 mask loss is 3.5570 ms per sentence is  4.5176,lr=1.321100e-05 sent processed 2.55099e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-02:32:31 mask loss is 3.5862 ms per sentence is  4.5400,lr=1.312567e-05 sent processed 2.55345e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-02:34:23 mask loss is 3.4812 ms per sentence is  4.5528,lr=1.304033e-05 sent processed 2.5559e+07
+-------------------------epoch 51 ---------------------
+2021-06-19-02:36:15 mask loss is 3.5724 ms per sentence is  0.0000,lr=1.295500e-05 sent processed 2.55836e+07
+2021-06-19-02:38:06 mask loss is 3.3969 ms per sentence is  4.5417,lr=1.286967e-05 sent processed 2.56082e+07
+2021-06-19-02:39:58 mask loss is 3.5172 ms per sentence is  4.5554,lr=1.278433e-05 sent processed 2.56328e+07
+2021-06-19-02:41:50 mask loss is 3.4017 ms per sentence is  4.5498,lr=1.269900e-05 sent processed 2.56573e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-02:43:42 mask loss is 3.4276 ms per sentence is  4.5679,lr=1.261367e-05 sent processed 2.56819e+07
+2021-06-19-02:45:34 mask loss is 3.4126 ms per sentence is  4.5482,lr=1.252833e-05 sent processed 2.57065e+07
+2021-06-19-02:47:26 mask loss is 3.5199 ms per sentence is  4.5592,lr=1.244300e-05 sent processed 2.57311e+07
+2021-06-19-02:49:18 mask loss is 3.5621 ms per sentence is  4.5397,lr=1.235767e-05 sent processed 2.57556e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-02:51:09 mask loss is 3.4835 ms per sentence is  4.5446,lr=1.227233e-05 sent processed 2.57802e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-02:53:01 mask loss is 3.4267 ms per sentence is  4.5236,lr=1.218700e-05 sent processed 2.58048e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-02:54:52 mask loss is 3.4169 ms per sentence is  4.5521,lr=1.210167e-05 sent processed 2.58294e+07
+2021-06-19-02:56:44 mask loss is 3.6282 ms per sentence is  4.5515,lr=1.201633e-05 sent processed 2.5854e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-02:58:36 mask loss is 3.4449 ms per sentence is  4.5663,lr=1.193100e-05 sent processed 2.58785e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-19-03:00:28 mask loss is 3.3946 ms per sentence is  4.5444,lr=1.184567e-05 sent processed 2.59031e+07
+2021-06-19-03:02:20 mask loss is 3.3088 ms per sentence is  4.5585,lr=1.176033e-05 sent processed 2.59277e+07
+2021-06-19-03:04:12 mask loss is 3.4726 ms per sentence is  4.5308,lr=1.167500e-05 sent processed 2.59523e+07
+2021-06-19-03:06:04 mask loss is 3.3807 ms per sentence is  4.5678,lr=1.158967e-05 sent processed 2.59768e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-03:07:55 mask loss is 3.5051 ms per sentence is  4.5301,lr=1.150433e-05 sent processed 2.60014e+07
+2021-06-19-03:09:47 mask loss is 3.4126 ms per sentence is  4.5490,lr=1.141900e-05 sent processed 2.6026e+07
+2021-06-19-03:11:38 mask loss is 3.4924 ms per sentence is  4.5342,lr=1.133367e-05 sent processed 2.60506e+07
+-------------------------epoch 52 ---------------------
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-03:13:30 mask loss is 3.4814 ms per sentence is  0.0000,lr=1.124833e-05 sent processed 2.60751e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-03:15:22 mask loss is 3.3598 ms per sentence is  4.5414,lr=1.116300e-05 sent processed 2.60997e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-03:17:14 mask loss is 3.3454 ms per sentence is  4.5587,lr=1.107767e-05 sent processed 2.61243e+07
+2021-06-19-03:19:05 mask loss is 3.3845 ms per sentence is  4.5246,lr=1.099233e-05 sent processed 2.61489e+07
+2021-06-19-03:20:57 mask loss is 3.4875 ms per sentence is  4.5489,lr=1.090700e-05 sent processed 2.61734e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-03:22:48 mask loss is 3.3419 ms per sentence is  4.5199,lr=1.082167e-05 sent processed 2.6198e+07
+2021-06-19-03:24:40 mask loss is 3.2445 ms per sentence is  4.5526,lr=1.073633e-05 sent processed 2.62226e+07
+2021-06-19-03:26:32 mask loss is 3.3228 ms per sentence is  4.5544,lr=1.065100e-05 sent processed 2.62472e+07
+2021-06-19-03:28:24 mask loss is 3.4816 ms per sentence is  4.5571,lr=1.056567e-05 sent processed 2.62717e+07
+2021-06-19-03:30:15 mask loss is 3.4366 ms per sentence is  4.5234,lr=1.048033e-05 sent processed 2.62963e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-03:32:06 mask loss is 3.4416 ms per sentence is  4.5367,lr=1.039500e-05 sent processed 2.63209e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-03:33:58 mask loss is 3.3496 ms per sentence is  4.5347,lr=1.030967e-05 sent processed 2.63455e+07
+2021-06-19-03:35:49 mask loss is 3.4623 ms per sentence is  4.5330,lr=1.022433e-05 sent processed 2.637e+07
+2021-06-19-03:37:41 mask loss is 3.4899 ms per sentence is  4.5465,lr=1.013900e-05 sent processed 2.63946e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-03:39:33 mask loss is 3.4843 ms per sentence is  4.5419,lr=1.005367e-05 sent processed 2.64192e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-03:41:24 mask loss is 3.4063 ms per sentence is  4.5346,lr=9.968333e-06 sent processed 2.64438e+07
+2021-06-19-03:43:16 mask loss is 3.4946 ms per sentence is  4.5595,lr=9.883000e-06 sent processed 2.64684e+07
+2021-06-19-03:45:08 mask loss is 3.4980 ms per sentence is  4.5309,lr=9.797667e-06 sent processed 2.64929e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-03:46:59 mask loss is 3.4641 ms per sentence is  4.5458,lr=9.712333e-06 sent processed 2.65175e+07
+2021-06-19-03:48:51 mask loss is 3.4460 ms per sentence is  4.5363,lr=9.627000e-06 sent processed 2.65421e+07
+-------------------------epoch 53 ---------------------
+2021-06-19-03:50:43 mask loss is 3.5448 ms per sentence is  0.0000,lr=9.541667e-06 sent processed 2.65667e+07
+2021-06-19-03:52:35 mask loss is 3.5334 ms per sentence is  4.5333,lr=9.456333e-06 sent processed 2.65912e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-03:54:27 mask loss is 3.4718 ms per sentence is  4.5509,lr=9.371000e-06 sent processed 2.66158e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-03:56:18 mask loss is 3.4411 ms per sentence is  4.5327,lr=9.285667e-06 sent processed 2.66404e+07
+2021-06-19-03:58:10 mask loss is 3.4298 ms per sentence is  4.5569,lr=9.200333e-06 sent processed 2.6665e+07
+2021-06-19-04:00:02 mask loss is 3.4858 ms per sentence is  4.5510,lr=9.115000e-06 sent processed 2.66895e+07
+2021-06-19-04:01:54 mask loss is 3.4525 ms per sentence is  4.5497,lr=9.029667e-06 sent processed 2.67141e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-04:03:45 mask loss is 3.4153 ms per sentence is  4.5412,lr=8.944333e-06 sent processed 2.67387e+07
+2021-06-19-04:05:37 mask loss is 3.4065 ms per sentence is  4.5394,lr=8.859000e-06 sent processed 2.67633e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-19-04:07:29 mask loss is 3.4664 ms per sentence is  4.5535,lr=8.773667e-06 sent processed 2.67878e+07
+2021-06-19-04:09:21 mask loss is 3.5292 ms per sentence is  4.5672,lr=8.688333e-06 sent processed 2.68124e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-04:11:13 mask loss is 3.5088 ms per sentence is  4.5520,lr=8.603000e-06 sent processed 2.6837e+07
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-19-04:13:06 mask loss is 3.5608 ms per sentence is  4.5912,lr=8.517667e-06 sent processed 2.68616e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-04:14:57 mask loss is 3.5174 ms per sentence is  4.5180,lr=8.432333e-06 sent processed 2.68861e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-19-04:16:49 mask loss is 3.4900 ms per sentence is  4.5614,lr=8.347000e-06 sent processed 2.69107e+07
+2021-06-19-04:18:40 mask loss is 3.4718 ms per sentence is  4.5293,lr=8.261667e-06 sent processed 2.69353e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-04:20:32 mask loss is 3.4393 ms per sentence is  4.5439,lr=8.176333e-06 sent processed 2.69599e+07
+2021-06-19-04:22:23 mask loss is 3.4954 ms per sentence is  4.5291,lr=8.091000e-06 sent processed 2.69844e+07
+2021-06-19-04:24:15 mask loss is 3.5010 ms per sentence is  4.5583,lr=8.005667e-06 sent processed 2.7009e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-04:26:06 mask loss is 3.4812 ms per sentence is  4.5235,lr=7.920333e-06 sent processed 2.70336e+07
+-------------------------epoch 54 ---------------------
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-04:27:58 mask loss is 3.4605 ms per sentence is  0.0000,lr=7.835000e-06 sent processed 2.70582e+07
+2021-06-19-04:29:50 mask loss is 3.5328 ms per sentence is  4.5258,lr=7.749667e-06 sent processed 2.70828e+07
+2021-06-19-04:31:41 mask loss is 3.5910 ms per sentence is  4.5363,lr=7.664333e-06 sent processed 2.71073e+07
+2021-06-19-04:33:33 mask loss is 3.6336 ms per sentence is  4.5339,lr=7.579000e-06 sent processed 2.71319e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-04:35:24 mask loss is 3.5101 ms per sentence is  4.5489,lr=7.493667e-06 sent processed 2.71565e+07
+2021-06-19-04:37:16 mask loss is 3.4840 ms per sentence is  4.5311,lr=7.408333e-06 sent processed 2.71811e+07
+2021-06-19-04:39:08 mask loss is 3.4738 ms per sentence is  4.5557,lr=7.323000e-06 sent processed 2.72056e+07
+2021-06-19-04:41:00 mask loss is 3.4701 ms per sentence is  4.5534,lr=7.237667e-06 sent processed 2.72302e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-04:42:51 mask loss is 3.4258 ms per sentence is  4.5509,lr=7.152333e-06 sent processed 2.72548e+07
+2021-06-19-04:44:43 mask loss is 3.3515 ms per sentence is  4.5365,lr=7.067000e-06 sent processed 2.72794e+07
+2021-06-19-04:46:35 mask loss is 3.3964 ms per sentence is  4.5790,lr=6.981667e-06 sent processed 2.73039e+07
+2021-06-19-04:48:28 mask loss is 3.4885 ms per sentence is  4.5668,lr=6.896333e-06 sent processed 2.73285e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-04:50:20 mask loss is 3.4595 ms per sentence is  4.5794,lr=6.811000e-06 sent processed 2.73531e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-19-04:52:13 mask loss is 3.4133 ms per sentence is  4.5807,lr=6.725667e-06 sent processed 2.73777e+07
+2021-06-19-04:54:06 mask loss is 3.4849 ms per sentence is  4.5970,lr=6.640333e-06 sent processed 2.74022e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-04:55:58 mask loss is 3.5243 ms per sentence is  4.5592,lr=6.555000e-06 sent processed 2.74268e+07
+2021-06-19-04:57:50 mask loss is 3.4687 ms per sentence is  4.5722,lr=6.469667e-06 sent processed 2.74514e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-04:59:42 mask loss is 3.3732 ms per sentence is  4.5385,lr=6.384333e-06 sent processed 2.7476e+07
+2021-06-19-05:01:34 mask loss is 3.4312 ms per sentence is  4.5556,lr=6.299000e-06 sent processed 2.75005e+07
+2021-06-19-05:03:25 mask loss is 3.3786 ms per sentence is  4.5486,lr=6.213667e-06 sent processed 2.75251e+07
+-------------------------epoch 55 ---------------------
+2021-06-19-05:05:18 mask loss is 3.4373 ms per sentence is  0.0000,lr=6.128333e-06 sent processed 2.75497e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-05:07:10 mask loss is 3.3219 ms per sentence is  4.5540,lr=6.043000e-06 sent processed 2.75743e+07
+2021-06-19-05:09:02 mask loss is 3.3189 ms per sentence is  4.5674,lr=5.957667e-06 sent processed 2.75988e+07
+2021-06-19-05:10:53 mask loss is 3.3286 ms per sentence is  4.5177,lr=5.872333e-06 sent processed 2.76234e+07
+rank 0 is done for thread 6 for /search/odin/bingning/data/LALM/german/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-05:12:45 mask loss is 3.5546 ms per sentence is  4.5467,lr=5.787000e-06 sent processed 2.7648e+07
+2021-06-19-05:14:36 mask loss is 3.4899 ms per sentence is  4.5335,lr=5.701667e-06 sent processed 2.76726e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-05:16:28 mask loss is 3.4630 ms per sentence is  4.5430,lr=5.616333e-06 sent processed 2.76972e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-05:18:19 mask loss is 3.4186 ms per sentence is  4.5292,lr=5.531000e-06 sent processed 2.77217e+07
+2021-06-19-05:20:11 mask loss is 3.4357 ms per sentence is  4.5433,lr=5.445667e-06 sent processed 2.77463e+07
+2021-06-19-05:22:02 mask loss is 3.5467 ms per sentence is  4.5287,lr=5.360333e-06 sent processed 2.77709e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-05:23:54 mask loss is 3.4124 ms per sentence is  4.5486,lr=5.275000e-06 sent processed 2.77955e+07
+2021-06-19-05:25:45 mask loss is 3.5518 ms per sentence is  4.5245,lr=5.189667e-06 sent processed 2.782e+07
+2021-06-19-05:27:37 mask loss is 3.4354 ms per sentence is  4.5425,lr=5.104333e-06 sent processed 2.78446e+07
+2021-06-19-05:29:28 mask loss is 3.5203 ms per sentence is  4.5303,lr=5.019000e-06 sent processed 2.78692e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-05:31:20 mask loss is 3.4219 ms per sentence is  4.5635,lr=4.933667e-06 sent processed 2.78938e+07
+2021-06-19-05:33:11 mask loss is 3.6259 ms per sentence is  4.5309,lr=4.848333e-06 sent processed 2.79183e+07
+2021-06-19-05:35:03 mask loss is 3.5789 ms per sentence is  4.5479,lr=4.763000e-06 sent processed 2.79429e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-05:36:55 mask loss is 3.6313 ms per sentence is  4.5325,lr=4.677667e-06 sent processed 2.79675e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-05:38:46 mask loss is 3.4894 ms per sentence is  4.5526,lr=4.592333e-06 sent processed 2.79921e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-05:40:38 mask loss is 3.5262 ms per sentence is  4.5471,lr=4.507000e-06 sent processed 2.80166e+07
+-------------------------epoch 56 ---------------------
+2021-06-19-05:42:31 mask loss is 3.6044 ms per sentence is  0.0000,lr=4.421667e-06 sent processed 2.80412e+07
+2021-06-19-05:44:22 mask loss is 3.5357 ms per sentence is  4.5394,lr=4.336333e-06 sent processed 2.80658e+07
+2021-06-19-05:46:14 mask loss is 3.5235 ms per sentence is  4.5620,lr=4.251000e-06 sent processed 2.80904e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-05:48:06 mask loss is 3.3965 ms per sentence is  4.5406,lr=4.165667e-06 sent processed 2.81149e+07
+2021-06-19-05:49:58 mask loss is 3.5024 ms per sentence is  4.5642,lr=4.080333e-06 sent processed 2.81395e+07
+2021-06-19-05:51:50 mask loss is 3.4964 ms per sentence is  4.5339,lr=3.995000e-06 sent processed 2.81641e+07
+2021-06-19-05:53:41 mask loss is 3.6178 ms per sentence is  4.5481,lr=3.909667e-06 sent processed 2.81887e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-05:55:33 mask loss is 3.4487 ms per sentence is  4.5301,lr=3.824333e-06 sent processed 2.82132e+07
+2021-06-19-05:57:24 mask loss is 3.6079 ms per sentence is  4.5392,lr=3.739000e-06 sent processed 2.82378e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-05:59:15 mask loss is 3.5001 ms per sentence is  4.5211,lr=3.653667e-06 sent processed 2.82624e+07
+2021-06-19-06:01:07 mask loss is 3.5553 ms per sentence is  4.5608,lr=3.568333e-06 sent processed 2.8287e+07
+2021-06-19-06:02:59 mask loss is 3.5263 ms per sentence is  4.5261,lr=3.483000e-06 sent processed 2.83116e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-06:04:50 mask loss is 3.5237 ms per sentence is  4.5412,lr=3.397667e-06 sent processed 2.83361e+07
+2021-06-19-06:06:42 mask loss is 3.5101 ms per sentence is  4.5368,lr=3.312333e-06 sent processed 2.83607e+07
+2021-06-19-06:08:34 mask loss is 3.5025 ms per sentence is  4.5704,lr=3.227000e-06 sent processed 2.83853e+07
+2021-06-19-06:10:25 mask loss is 3.4999 ms per sentence is  4.5315,lr=3.141667e-06 sent processed 2.84099e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-06:12:17 mask loss is 3.4202 ms per sentence is  4.5480,lr=3.056333e-06 sent processed 2.84344e+07
+2021-06-19-06:14:09 mask loss is 3.5769 ms per sentence is  4.5269,lr=2.971000e-06 sent processed 2.8459e+07
+2021-06-19-06:16:00 mask loss is 3.5441 ms per sentence is  4.5366,lr=2.885667e-06 sent processed 2.84836e+07
+2021-06-19-06:17:51 mask loss is 3.5485 ms per sentence is  4.5348,lr=2.800333e-06 sent processed 2.85082e+07
+-------------------------epoch 57 ---------------------
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-06:19:44 mask loss is 3.4068 ms per sentence is  0.0000,lr=2.715000e-06 sent processed 2.85327e+07
+2021-06-19-06:21:35 mask loss is 3.5163 ms per sentence is  4.5529,lr=2.629667e-06 sent processed 2.85573e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-06:23:27 mask loss is 3.4840 ms per sentence is  4.5419,lr=2.544333e-06 sent processed 2.85819e+07
+2021-06-19-06:25:19 mask loss is 3.5263 ms per sentence is  4.5352,lr=2.459000e-06 sent processed 2.86065e+07
+2021-06-19-06:27:11 mask loss is 3.4160 ms per sentence is  4.5597,lr=2.373667e-06 sent processed 2.8631e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-06:29:02 mask loss is 3.5140 ms per sentence is  4.5286,lr=2.288333e-06 sent processed 2.86556e+07
+2021-06-19-06:30:54 mask loss is 3.4296 ms per sentence is  4.5751,lr=2.203000e-06 sent processed 2.86802e+07
+2021-06-19-06:32:46 mask loss is 3.4589 ms per sentence is  4.5436,lr=2.117667e-06 sent processed 2.87048e+07
+2021-06-19-06:34:38 mask loss is 3.4293 ms per sentence is  4.5517,lr=2.032333e-06 sent processed 2.87293e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-06:36:29 mask loss is 3.4492 ms per sentence is  4.5349,lr=1.947000e-06 sent processed 2.87539e+07
+2021-06-19-06:38:21 mask loss is 3.4783 ms per sentence is  4.5510,lr=1.861667e-06 sent processed 2.87785e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-06:40:13 mask loss is 3.4108 ms per sentence is  4.5489,lr=1.776333e-06 sent processed 2.88031e+07
+2021-06-19-06:42:05 mask loss is 3.3089 ms per sentence is  4.5582,lr=1.691000e-06 sent processed 2.88276e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-06:43:57 mask loss is 3.3284 ms per sentence is  4.5432,lr=1.605667e-06 sent processed 2.88522e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-06:45:49 mask loss is 3.3924 ms per sentence is  4.5805,lr=1.520333e-06 sent processed 2.88768e+07
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-19-06:47:41 mask loss is 3.3730 ms per sentence is  4.5588,lr=1.435000e-06 sent processed 2.89014e+07
+2021-06-19-06:49:34 mask loss is 3.3815 ms per sentence is  4.5963,lr=1.349667e-06 sent processed 2.8926e+07
+2021-06-19-06:51:26 mask loss is 3.3936 ms per sentence is  4.5612,lr=1.264333e-06 sent processed 2.89505e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-06:53:19 mask loss is 3.4765 ms per sentence is  4.5693,lr=1.179000e-06 sent processed 2.89751e+07
+2021-06-19-06:55:10 mask loss is 3.4932 ms per sentence is  4.5386,lr=1.093667e-06 sent processed 2.89997e+07
+-------------------------epoch 58 ---------------------
+2021-06-19-06:57:02 mask loss is 3.4523 ms per sentence is  0.0000,lr=1.008333e-06 sent processed 2.90243e+07
+2021-06-19-06:58:54 mask loss is 3.3954 ms per sentence is  4.5358,lr=9.230000e-07 sent processed 2.90488e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:00:46 mask loss is 3.3621 ms per sentence is  4.5586,lr=8.376667e-07 sent processed 2.90734e+07
+2021-06-19-07:02:38 mask loss is 3.3650 ms per sentence is  4.5549,lr=7.523333e-07 sent processed 2.9098e+07
+2021-06-19-07:04:30 mask loss is 3.3976 ms per sentence is  4.5623,lr=6.670000e-07 sent processed 2.91226e+07
+2021-06-19-07:06:21 mask loss is 3.3640 ms per sentence is  4.5442,lr=5.816667e-07 sent processed 2.91471e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:08:13 mask loss is 3.4072 ms per sentence is  4.5435,lr=4.963333e-07 sent processed 2.91717e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-07:10:04 mask loss is 3.3825 ms per sentence is  4.5105,lr=4.110000e-07 sent processed 2.91963e+07
+2021-06-19-07:11:55 mask loss is 3.2999 ms per sentence is  4.5327,lr=3.256667e-07 sent processed 2.92209e+07
+2021-06-19-07:13:47 mask loss is 3.4253 ms per sentence is  4.5304,lr=2.403333e-07 sent processed 2.92454e+07
+2021-06-19-07:15:39 mask loss is 3.5189 ms per sentence is  4.5618,lr=1.550000e-07 sent processed 2.927e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:17:31 mask loss is 3.5441 ms per sentence is  4.5580,lr=3.140000e-06 sent processed 2.92946e+07
+2021-06-19-07:19:23 mask loss is 3.5277 ms per sentence is  4.5461,lr=8.260000e-06 sent processed 2.93192e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-07:21:14 mask loss is 3.4330 ms per sentence is  4.5304,lr=1.338000e-05 sent processed 2.93437e+07
+2021-06-19-07:23:06 mask loss is 3.4049 ms per sentence is  4.5483,lr=1.850000e-05 sent processed 2.93683e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:24:57 mask loss is 3.5571 ms per sentence is  4.5259,lr=2.362000e-05 sent processed 2.93929e+07
+2021-06-19-07:26:49 mask loss is 3.4833 ms per sentence is  4.5449,lr=2.874000e-05 sent processed 2.94175e+07
+2021-06-19-07:28:40 mask loss is 3.4086 ms per sentence is  4.5316,lr=3.386000e-05 sent processed 2.9442e+07
+2021-06-19-07:30:33 mask loss is 3.4105 ms per sentence is  4.6040,lr=3.898000e-05 sent processed 2.94666e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:32:25 mask loss is 3.4706 ms per sentence is  4.5555,lr=4.410000e-05 sent processed 2.94912e+07
+-------------------------epoch 59 ---------------------
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-07:34:18 mask loss is 3.5384 ms per sentence is  0.0000,lr=4.922000e-05 sent processed 2.95158e+07
+2021-06-19-07:36:09 mask loss is 3.5428 ms per sentence is  4.5321,lr=5.434000e-05 sent processed 2.95404e+07
+2021-06-19-07:38:01 mask loss is 3.5614 ms per sentence is  4.5550,lr=5.946000e-05 sent processed 2.95649e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:39:52 mask loss is 3.5553 ms per sentence is  4.5361,lr=6.458000e-05 sent processed 2.95895e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-07:41:45 mask loss is 3.5114 ms per sentence is  4.5617,lr=6.970000e-05 sent processed 2.96141e+07
+2021-06-19-07:43:36 mask loss is 3.3221 ms per sentence is  4.5449,lr=7.482000e-05 sent processed 2.96387e+07
+2021-06-19-07:45:29 mask loss is 3.4139 ms per sentence is  4.5750,lr=7.994000e-05 sent processed 2.96632e+07
+2021-06-19-07:47:21 mask loss is 3.4680 ms per sentence is  4.5639,lr=8.506000e-05 sent processed 2.96878e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:49:13 mask loss is 3.5406 ms per sentence is  4.5708,lr=9.018000e-05 sent processed 2.97124e+07
+2021-06-19-07:51:05 mask loss is 3.5168 ms per sentence is  4.5429,lr=9.530000e-05 sent processed 2.9737e+07
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-19-07:52:56 mask loss is 3.4513 ms per sentence is  4.5349,lr=1.001353e-04 sent processed 2.97615e+07
+2021-06-19-07:54:48 mask loss is 3.5249 ms per sentence is  4.5284,lr=1.000500e-04 sent processed 2.97861e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-07:56:39 mask loss is 3.6742 ms per sentence is  4.5375,lr=9.996467e-05 sent processed 2.98107e+07
+2021-06-19-07:58:30 mask loss is 3.6978 ms per sentence is  4.5170,lr=9.987933e-05 sent processed 2.98353e+07
+2021-06-19-08:00:22 mask loss is 3.6304 ms per sentence is  4.5638,lr=9.979400e-05 sent processed 2.98598e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+rank 0 is done for thread 1 for /search/odin/bingning/data/LALM/chinese/wiki.all.txt
+2021-06-19-08:02:13 mask loss is 3.6802 ms per sentence is  4.5271,lr=9.970867e-05 sent processed 2.98844e+07
+2021-06-19-08:04:05 mask loss is 3.5941 ms per sentence is  4.5431,lr=9.962333e-05 sent processed 2.9909e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-08:05:57 mask loss is 3.6861 ms per sentence is  4.5570,lr=9.953800e-05 sent processed 2.99336e+07
+2021-06-19-08:07:49 mask loss is 3.5551 ms per sentence is  4.5360,lr=9.945267e-05 sent processed 2.99581e+07
+2021-06-19-08:09:39 mask loss is 3.6041 ms per sentence is  4.5113,lr=9.936733e-05 sent processed 2.99827e+07
+-------------------------epoch 60 ---------------------
+2021-06-19-08:11:32 mask loss is 3.6261 ms per sentence is  0.0000,lr=9.928200e-05 sent processed 3.00073e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-08:13:23 mask loss is 3.5831 ms per sentence is  4.5372,lr=9.919667e-05 sent processed 3.00319e+07
+2021-06-19-08:15:15 mask loss is 3.5811 ms per sentence is  4.5467,lr=9.911133e-05 sent processed 3.00564e+07
+2021-06-19-08:17:06 mask loss is 3.6343 ms per sentence is  4.5226,lr=9.902600e-05 sent processed 3.0081e+07
+2021-06-19-08:18:58 mask loss is 3.7207 ms per sentence is  4.5351,lr=9.894067e-05 sent processed 3.01056e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-08:20:49 mask loss is 3.6728 ms per sentence is  4.5254,lr=9.885533e-05 sent processed 3.01302e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+2021-06-19-08:22:41 mask loss is 3.6539 ms per sentence is  4.5470,lr=9.877000e-05 sent processed 3.01548e+07
+2021-06-19-08:24:32 mask loss is 3.5455 ms per sentence is  4.5384,lr=9.868467e-05 sent processed 3.01793e+07
+2021-06-19-08:26:24 mask loss is 3.5864 ms per sentence is  4.5407,lr=9.859933e-05 sent processed 3.02039e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-08:28:16 mask loss is 3.5906 ms per sentence is  4.5541,lr=9.851400e-05 sent processed 3.02285e+07
+2021-06-19-08:30:08 mask loss is 3.6213 ms per sentence is  4.5704,lr=9.842867e-05 sent processed 3.02531e+07
+2021-06-19-08:32:00 mask loss is 3.4640 ms per sentence is  4.5527,lr=9.834333e-05 sent processed 3.02776e+07
+2021-06-19-08:33:52 mask loss is 3.5168 ms per sentence is  4.5693,lr=9.825800e-05 sent processed 3.03022e+07
+2021-06-19-08:35:44 mask loss is 3.5763 ms per sentence is  4.5591,lr=9.817267e-05 sent processed 3.03268e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-08:37:36 mask loss is 3.6289 ms per sentence is  4.5598,lr=9.808733e-05 sent processed 3.03514e+07
+2021-06-19-08:39:28 mask loss is 3.5296 ms per sentence is  4.5423,lr=9.800200e-05 sent processed 3.03759e+07
+2021-06-19-08:41:20 mask loss is 3.5604 ms per sentence is  4.5621,lr=9.791667e-05 sent processed 3.04005e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-08:43:12 mask loss is 3.6097 ms per sentence is  4.5366,lr=9.783133e-05 sent processed 3.04251e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-08:45:04 mask loss is 3.5168 ms per sentence is  4.5590,lr=9.774600e-05 sent processed 3.04497e+07
+2021-06-19-08:46:55 mask loss is 3.5798 ms per sentence is  4.5353,lr=9.766067e-05 sent processed 3.04742e+07
+-------------------------epoch 61 ---------------------
+2021-06-19-08:48:47 mask loss is 3.4416 ms per sentence is  0.0000,lr=9.757533e-05 sent processed 3.04988e+07
+rank 0 is done for thread 3 for /search/odin/bingning/data/LALM/french/wiki.all.txt
+2021-06-19-08:50:38 mask loss is 3.5300 ms per sentence is  4.5142,lr=9.749000e-05 sent processed 3.05234e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-08:52:30 mask loss is 3.4459 ms per sentence is  4.5487,lr=9.740467e-05 sent processed 3.0548e+07
+2021-06-19-08:54:21 mask loss is 3.4463 ms per sentence is  4.5302,lr=9.731933e-05 sent processed 3.05725e+07
+2021-06-19-08:56:13 mask loss is 3.3435 ms per sentence is  4.5611,lr=9.723400e-05 sent processed 3.05971e+07
+2021-06-19-08:58:05 mask loss is 3.5838 ms per sentence is  4.5312,lr=9.714867e-05 sent processed 3.06217e+07
+2021-06-19-08:59:57 mask loss is 3.5638 ms per sentence is  4.5533,lr=9.706333e-05 sent processed 3.06463e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-09:01:48 mask loss is 3.6457 ms per sentence is  4.5312,lr=9.697800e-05 sent processed 3.06708e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 8 for /search/odin/bingning/data/LALM/japanese/wiki.all.txt
+2021-06-19-09:03:40 mask loss is 3.4859 ms per sentence is  4.5473,lr=9.689267e-05 sent processed 3.06954e+07
+2021-06-19-09:05:31 mask loss is 3.4484 ms per sentence is  4.5386,lr=9.680733e-05 sent processed 3.072e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-09:07:23 mask loss is 3.6494 ms per sentence is  4.5506,lr=9.672200e-05 sent processed 3.07446e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-09:09:15 mask loss is 3.6044 ms per sentence is  4.5369,lr=9.663667e-05 sent processed 3.07692e+07
+2021-06-19-09:11:06 mask loss is 3.6025 ms per sentence is  4.5543,lr=9.655133e-05 sent processed 3.07937e+07
+2021-06-19-09:12:58 mask loss is 3.4784 ms per sentence is  4.5412,lr=9.646600e-05 sent processed 3.08183e+07
+2021-06-19-09:14:50 mask loss is 3.6073 ms per sentence is  4.5425,lr=9.638067e-05 sent processed 3.08429e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+rank 0 is done for thread 2 for /search/odin/bingning/data/LALM/korean/wiki.all.txt
+2021-06-19-09:16:41 mask loss is 3.6126 ms per sentence is  4.5211,lr=9.629533e-05 sent processed 3.08675e+07
+2021-06-19-09:18:32 mask loss is 3.6443 ms per sentence is  4.5306,lr=9.621000e-05 sent processed 3.0892e+07
+2021-06-19-09:20:25 mask loss is 3.6572 ms per sentence is  4.5707,lr=9.612467e-05 sent processed 3.09166e+07
+2021-06-19-09:22:17 mask loss is 3.7467 ms per sentence is  4.5821,lr=9.603933e-05 sent processed 3.09412e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-09:24:08 mask loss is 3.7076 ms per sentence is  4.5298,lr=9.595400e-05 sent processed 3.09658e+07
+-------------------------epoch 62 ---------------------
+2021-06-19-09:26:01 mask loss is 3.6367 ms per sentence is  0.0000,lr=9.586867e-05 sent processed 3.09903e+07
+2021-06-19-09:27:53 mask loss is 3.6119 ms per sentence is  4.5391,lr=9.578333e-05 sent processed 3.10149e+07
+rank 0 is done for thread 4 for /search/odin/bingning/data/LALM/hindi/wiki.all.txt
+2021-06-19-09:29:44 mask loss is 3.5699 ms per sentence is  4.5417,lr=9.569800e-05 sent processed 3.10395e+07
+2021-06-19-09:31:36 mask loss is 3.6274 ms per sentence is  4.5418,lr=9.561267e-05 sent processed 3.10641e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-09:33:28 mask loss is 3.6025 ms per sentence is  4.5722,lr=9.552733e-05 sent processed 3.10886e+07
+2021-06-19-09:35:20 mask loss is 3.6010 ms per sentence is  4.5300,lr=9.544200e-05 sent processed 3.11132e+07
+2021-06-19-09:37:12 mask loss is 3.5262 ms per sentence is  4.5700,lr=9.535667e-05 sent processed 3.11378e+07
+2021-06-19-09:39:04 mask loss is 3.7347 ms per sentence is  4.5678,lr=9.527133e-05 sent processed 3.11624e+07
+rank 0 is done for thread 5 for /search/odin/bingning/data/LALM/burmese/wiki.all.txt
+2021-06-19-09:40:56 mask loss is 3.6820 ms per sentence is  4.5538,lr=9.518600e-05 sent processed 3.11869e+07
+2021-06-19-09:42:48 mask loss is 3.5309 ms per sentence is  4.5444,lr=9.510067e-05 sent processed 3.12115e+07
+rank 0 is done for thread 9 for /search/odin/bingning/data/LALM/minnan/wiki.all.txt
+rank 0 is done for thread 7 for /search/odin/bingning/data/LALM/vietnam/wiki.all.txt
+2021-06-19-09:44:39 mask loss is 3.5886 ms per sentence is  4.5352,lr=9.501533e-05 sent processed 3.12361e+07
+2021-06-19-09:46:31 mask loss is 3.5954 ms per sentence is  4.5462,lr=9.493000e-05 sent processed 3.12607e+07
+Killing subprocess 46951
+Killing subprocess 46952
+Killing subprocess 46953
+Killing subprocess 46954
+Main process received SIGINT, exiting

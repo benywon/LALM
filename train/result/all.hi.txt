@@ -1,0 +1,9 @@
+hi
+dev data size is 2555
+=====0=====
+Bleu_1: 0.46313
+Bleu_2: 0.38519
+Bleu_3: 0.33051
+Bleu_4: 0.28832
+METEOR: 0.33932
+ROUGE_L: 0.45657
